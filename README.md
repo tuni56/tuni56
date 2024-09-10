@@ -18,9 +18,9 @@ DevOps Practices: Learn about my approach to DevOps, including continuous integr
 ## Projects
 Here's a preview of some key projects:
 
-Project 1: Setting up remote access to VPC Resources
-Project 2: Automating EC2 instance creation and configuration using Ansible
-Project 3: Implementing a CI/CD pipeline for deploying a web application using AWS CodePipeline, CodeBuild, and CodeDeploy
+### Project 1: Setting up remote access to VPC Resources
+### Project 2: Automating EC2 instance creation and configuration using Ansible
+### Project 3: Implementing a CI/CD pipeline for deploying a web application using AWS CodePipeline, CodeBuild, and CodeDeploy
 
 ## Learning Resources
 As I continue to expand my AWS knowledge, I'll also share resources, guides, and tutorials that have been helpful in my learning journey. Feel free to explore and contribute!
