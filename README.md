@@ -1,9 +1,9 @@
 #  Welcome to My AWS Cloud Projects
 
-About Me
+## About Me
 Hi there! I'm Tuni, a passionate cloud enthusiast and aspiring AWS Solutions Architect. I'm dedicated to mastering AWS to build scalable, secure, and efficient cloud solutions. This repository is where I share my journey through AWS, including projects, experiments, and best practices I've learned along the way.
 
-️ What You'll Find Here
+️What You'll Find Here:
 This GitHub account is your one-stop shop for exploring the world of AWS:
 
 AWS Architecture Patterns: Discover examples of common architecture patterns using various AWS services to build effective cloud solutions.
@@ -14,7 +14,8 @@ Security Best Practices: Discover implementations of essential AWS security prac
 Bash Script for sudo apt update && sudo apt upgrade Automation: (See previous DevOps Projects section for details)
 Ansible Playbooks: Explore Ansible playbooks I've created for automating various tasks, including infrastructure provisioning, configuration management, and application deployment.
 DevOps Practices: Learn about my approach to DevOps, including continuous integration, continuous delivery, and infrastructure as code.
-Projects
+
+## Projects
 Here's a preview of some key projects:
 
 Project 1: Setting up remote access to VPC Resources
