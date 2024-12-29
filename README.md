@@ -32,10 +32,10 @@ Repository Link
 🏅 Credly Achievements
 I’m proud of my verified skills and accomplishments showcased through Credly badges:
 
-AWS Educate Getting Started with Storage
-AWS Knowledge: Cloud Essentials
-AWS Cloud Quest: Cloud Practitioner
-AWS Academy Graduate - AWS Academy Cloud Foundations
+    - AWS Educate Getting Started with Storage
+    - AWS Knowledge: Cloud Essentials
+    - AWS Cloud Quest: Cloud Practitioner
+    -  AWS Academy Graduate - AWS Academy Cloud Foundations
 Check out my full badge collection here: https://www.credly.com/users/rocio-baigorria.1a949f0d
 
 🛠️ Skills
