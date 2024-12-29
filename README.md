@@ -1,4 +1,5 @@
-Hi there! 👋 Welcome to my GitHub
+Hi there! 👋 Welcome to my GitHub!
+
 I'm Rocío, a passionate developer-turned-data scientist with a strong foundation in full-stack web development and a growing expertise in data science and machine learning.
 My journey into data science is fueled by a deep curiosity to uncover insights, build predictive models, and create impactful solutions using data.
 
