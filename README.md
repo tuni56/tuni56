@@ -1,58 +1,59 @@
-Hi there! 👋 Welcome to my GitHub!
 
-I'm Rocío, a passionate developer-turned-data scientist with a strong foundation in full-stack web development and a growing expertise in data science and machine learning.
-My journey into data science is fueled by a deep curiosity to uncover insights, build predictive models, and create impactful solutions using data.
 
-👩‍💻 About Me
-🌟 Transitioning from: Full-stack Web Development
-🎓 Currently Studying:
-    Data Science at the National University of La Plata (UNLP)
-    Data Science with Python at the National Technological University (UTN)
-🔎 Exploring: Data Science, Machine Learning, and Big Data
-📚 Current Focus: Python, Streamlit, AWS, Terraform
-🌐 Portfolio: Coming soon!
+**Title:** *The Rise of Rocío: A Journey from Code to Data Mastery*
 
-🚀 My Projects
-1. Building a Support Ticket System with Streamlit
-Description: A data-driven support ticket system built with Streamlit. This project demonstrates my ability to create intuitive, interactive web applications for real-world data workflows.
-Tech Stack: Python, Streamlit, Pandas
-Repository Link
-2. Automating AWS Infrastructure with Terraform
-Description: An infrastructure as code (IaC) project for creating and managing AWS resources, showcasing cloud automation skills.
-Tech Stack: AWS, Terraform
-Repository Link
-3. Responsive Resume Website
-Description: A simple, responsive resume website hosted on Amazon S3, designed to showcase personal projects and skills.
-Tech Stack: HTML, CSS, AWS S3
-Repository Link
-4. Spotify Playlist Automation with Terraform
-Description: A project that automates Spotify playlist creation using Terraform, based on the HashiCorp tutorial.
-Tech Stack: Terraform, Spotify API
-Repository Link
-🏅 Credly Achievements
-I’m proud of my verified skills and accomplishments showcased through Credly badges:
+**[Scene 1: The Awakening]**
 
-    - AWS Educate Getting Started with Storage
-    - AWS Knowledge: Cloud Essentials
-    - AWS Cloud Quest: Cloud Practitioner
-    -  AWS Academy Graduate - AWS Academy Cloud Foundations
-Check out my full badge collection here: https://www.credly.com/users/rocio-baigorria.1a949f0d
+In a world where technology shapes the future, one developer dared to transcend the limits of full-stack web development. Meet Rocío – a visionary, a creator, and a relentless force of innovation. She started as a full-stack web developer, crafting seamless web experiences with a mastery of JavaScript, React, and Node.js. But deep within her, a spark of curiosity ignited something greater.
 
-🛠️ Skills
-Programming Languages: Python, JavaScript, Bash
-Web Development: React, Node.js, HTML, CSS
-Data Science Tools: Pandas, NumPy, Matplotlib, Streamlit, Matlab
-Cloud Platforms: AWS (S3, EC2, VPC)
-DevOps Tools: Terraform, Ansible, GitHub Actions
-Version Control: Git, GitHub
-🌱 Currently Learning
-Advanced machine learning algorithms
-Docker and Kubernetes
-CI/CD pipelines
+**[Scene 2: The Transformation]**
 
-📫 Get in Touch
-LinkedIn: https://www.linkedin.com/in/rociobaigorria/
-Email: rociomnbaigorria@gmail.com
+Determined to unlock the secrets of data, Rocío set her sights on the ever-expanding universe of data science. Driven by an insatiable desire to extract insights from raw numbers and build models that could predict the future, she dove headfirst into the world of Python, Streamlit, and machine learning. This is where her true journey began. Now, as a data scientist in the making, Rocío stands at the edge of a revolution – one where data holds the key to change.
+
+**[Scene 3: The Pursuit of Knowledge]**
+
+At the National University of La Plata and the National Technological University, Rocío honed her skills, studying Data Science and Python with a singular focus: to master the tools that could reshape industries. Every line of code, every algorithm, was a step closer to greatness. And with every challenge, she grew stronger – exploring the vast realms of machine learning, big data, and cloud technologies like AWS and Terraform.
+
+**[Scene 4: The Breakthrough Projects]**
+
+Her mission was clear: to create, innovate, and automate. And she did just that. With her powerful projects, Rocío proved that anything was possible:
+
+1. **The Support Ticket System:** Powered by Streamlit, Rocío’s data-driven web application was a game-changer, offering intuitive, real-time solutions for businesses.  
+   Tech Stack: Python, Streamlit, Pandas  
+
+2. **AWS Infrastructure Automation:** Using Terraform, Rocío automated cloud infrastructure, demonstrating her prowess in cloud technologies and scaling the future of IT.  
+   Tech Stack: AWS, Terraform  
+
+3. **Responsive Resume Website:** Hosted on Amazon S3, her dynamic resume website was a testament to her coding and cloud skills, ready to shine on the global stage.  
+   Tech Stack: HTML, CSS, AWS S3  
+
+4. **Spotify Playlist Automation:** Combining her love for music and coding, Rocío automated the creation of Spotify playlists using Terraform – an elegant blend of tech and creativity.  
+   Tech Stack: Terraform, Spotify API  
+
+**[Scene 5: The Recognition]**
+
+Her efforts didn’t go unnoticed. With every achievement, she earned accolades, including several prestigious Credly badges that recognized her expertise in AWS and cloud technologies. Rocío wasn’t just another coder—she was a proven force in the tech world.
+
+**[Scene 6: The Hero’s Path]**
+
+But Rocío’s journey was far from over. She’s now on a mission to master the next frontier – advanced machine learning algorithms, Docker, Kubernetes, and CI/CD pipelines. With each new challenge, she rises higher, ready to conquer the future.
+
+**[Scene 7: The Invitation]**
+
+As Rocío continues to build her legacy, she extends an invitation to all those who dare to dream, learn, and create. The world of data is waiting, and it’s only just beginning.
+
+**[End Scene]**
+
+*The story is far from over...*
+
+*Get in touch with Rocío:*
+
+- LinkedIn: (https://www.linkedin.com/in/rociobaigorria/)
+- Email: rociomnbaigorria@gmail.com
+
+---
+
+This is the tale of a hero who began as a developer and now rises as a data scientist, armed with the power of code and the endless possibilities of data. Will you join her on this journey?
 
 
 
