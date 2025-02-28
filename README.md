@@ -1,60 +1,103 @@
-
-
-**Title:** *The Rise of Rocío: A Journey from Code to Data Mastery*
-
-**[Scene 1: The Awakening]**
-
-In a world where technology shapes the future, one developer dared to transcend the limits of full-stack web development. Meet Rocío – a visionary, a creator, and a relentless force of innovation. She started as a full-stack web developer, crafting seamless web experiences with a mastery of JavaScript, React, and Node.js. But deep within her, a spark of curiosity ignited something greater.
-
-**[Scene 2: The Transformation]**
-
-Determined to unlock the secrets of data, Rocío set her sights on the ever-expanding universe of data science. Driven by an insatiable desire to extract insights from raw numbers and build models that could predict the future, she dove headfirst into the world of Python, Streamlit, and machine learning. This is where her true journey began. Now, as a data scientist in the making, Rocío stands at the edge of a revolution – one where data holds the key to change.
-
-**[Scene 3: The Pursuit of Knowledge]**
-
-At the National University of La Plata and the National Technological University, Rocío honed her skills, studying Data Science and Python with a singular focus: to master the tools that could reshape industries. Every line of code, every algorithm, was a step closer to greatness. And with every challenge, she grew stronger – exploring the vast realms of machine learning, big data, and cloud technologies like AWS and Terraform.
-
-**[Scene 4: The Breakthrough Projects]**
-
-Her mission was clear: to create, innovate, and automate. And she did just that. With her powerful projects, Rocío proved that anything was possible:
-
-1. **The Support Ticket System:** Powered by Streamlit, Rocío’s data-driven web application was a game-changer, offering intuitive, real-time solutions for businesses.  
-   Tech Stack: Python, Streamlit, Pandas  
-
-2. **AWS Infrastructure Automation:** Using Terraform, Rocío automated cloud infrastructure, demonstrating her prowess in cloud technologies and scaling the future of IT.  
-   Tech Stack: AWS, Terraform  
-
-3. **Responsive Resume Website:** Hosted on Amazon S3, her dynamic resume website was a testament to her coding and cloud skills, ready to shine on the global stage.  
-   Tech Stack: HTML, CSS, AWS S3  
-
-4. **Spotify Playlist Automation:** Combining her love for music and coding, Rocío automated the creation of Spotify playlists using Terraform – an elegant blend of tech and creativity.  
-   Tech Stack: Terraform, Spotify API  
-
-**[Scene 5: The Recognition]**
-
-Her efforts didn’t go unnoticed. With every achievement, she earned accolades, including several prestigious Credly badges that recognized her expertise in AWS and cloud technologies. Rocío wasn’t just another coder—she was a proven force in the tech world.
-
-**[Scene 6: The Hero’s Path]**
-
-But Rocío’s journey was far from over. She’s now on a mission to master the next frontier – advanced machine learning algorithms, Docker, Kubernetes, and CI/CD pipelines. With each new challenge, she rises higher, ready to conquer the future.
-
-**[Scene 7: The Invitation]**
-
-As Rocío continues to build her legacy, she extends an invitation to all those who dare to dream, learn, and create. The world of data is waiting, and it’s only just beginning.
-
-**[End Scene]**
-
-*The story is far from over...*
-
-*Get in touch with Rocío:*
-
-- LinkedIn: (https://www.linkedin.com/in/rociobaigorria/)
-- Email: rociomnbaigorria@gmail.com
+```markdown
+# 🧙♀️ Rocío Baigorria  
+*"Speak 'friend' and enter... to my code realm"*  
+**Data Alchemist • Cloud Ranger • Mate-powered Coder**  
 
 ---
 
-This is the tale of a hero who began as a developer and now rises as a data scientist, armed with the power of code and the endless possibilities of data. Will you join her on this journey?
+## 🌌 **The Red Book of Westmarch (README Edition)**  
 
+### 🗡️ **Fellowship of the Stack**  
+```rust
+// Quest parameters
+const CURRENT_CLASS: &str = "Cloud-Breaker Wizard";
+const WEAPONS: [&str; 6] = ["Python", "AWS", "Terraform", "Kubernetes", "Streamlit", "React"];
+const MOUNT: &str = "AWS Lambda";
+const POTION: &str = "Argentinian Mate";
+```
+
+---
+
+### 🏰 **Artifacts Forged in the Fires of Mount Doom**  
+
+#### 🔮 **The Seeing Stone (ML Predictions)**  
+*"One model to rule them all, one loss function to bind them"*  
+→ Python • TensorFlow • Scikit-learn  
+```python
+def predict_future():
+    while has_mate():
+        train_model()
+        deploy_to_production()
+```
+
+#### ⚔️ **Glamdring (Cloud Infrastructure)**  
+*"Foe-hammer of legacy systems"*  
+→ Terraform • AWS EC2 • S3  
+```terraform
+resource "aws_infrastructure" "mordor_gate" {
+  scalability = "unlimited"
+  resilience  = "Balrog-proof"
+}
+```
+
+---
+
+### 📜 **Scrolls of Wisdom (Education)**  
+- **Minas Tirith Academy** (National University of La Plata)  
+  *Majored in Data Prophecies*  
+- **Isengard Institute of Technology** (UTN)  
+  *Studied Pythonic Runes*  
+
+---
+
+### 🏹 **Quests Accomplished**  
+
+| Artifact Name          | Magic Type          | Technologies                          |  
+|-------------------------|---------------------|---------------------------------------|  
+| Ticket-Slaying Light    | Streamlit Sorcery   | Python • Pandas • NLP                 |  
+| Lembas Playlist Creator | API Wizardry        | Terraform • Spotify API               |  
+| Responsive Web-Cloak    | Elven Frontend      | HTML5 • CSS Grid • AWS S3             |  
+
+---
+
+### 🧪 **Current Brews in the Cauldron**  
+- Teaching Ents about Kubernetes orchestration 🌳  
+- Writing Elvish documentation (readable docstrings) 📜  
+- Fortifying Helm's Deep (cluster security) 🏰  
+
+---
+
+### 📯 **Summoning Scroll**  
+*"Look to my coming on the first pull request, at dawn look to the CI/CD pipeline."*  
+
+[![LinkedIn Palantír](https://img.shields.io/badge/-Peer_into_the_Stone-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rociobaigorria/)  
+📫 **Eagle Post:** `rociomnbaigorria@gmail.com`  
+
+---
+
+### 🔮 **Prophecy of Tomorrow**  
+```mermaid
+graph LR
+    A[Mate Gourd] --> B((Code))
+    B --> C{Deploy?}
+    C -->|Yes| D[Production]
+    C -->|No| E[More Testing]
+    D --> F[Scalable Glory]
+```
+
+---
+
+### 🧙♂️ **Gandalf's Wisdom**  
+> *"All we have to decide is what to do with the CI/CD pipeline that is given to us."*  
+
+---
+
+**⚔️ May your merges be conflict-free and your deployments ever-green!**  
+```diff
++ Added 5 new AWS certifications
+! Fixed Balrog in production
+- Deprecated legacy systems
+```
 
 
 
