@@ -1,7 +1,6 @@
-Here's an enhanced version of your README to make it look cleaner and more structured:
 
 ```markdown
-# 🧙‍♀️ Rocío Baigorria  
+# 🧙‍♀️ Rocío Baigorria aka Tuni  
 *"Speak 'friend' and enter... to my code realm"*  
 **Data Alchemist • Cloud Ranger • Mate-powered Coder**  
 
