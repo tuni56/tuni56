@@ -5,7 +5,7 @@
 **Data Alchemist • Cloud Ranger • Mate-powered Coder**  
 
 ---
-![Banner](big-middle-earth-map.jpg)
+![Banner](banner.jpg)
 ## 🌌 **The Red Book of Westmarch (README Edition)**  
 
 ### 🗡️ **Fellowship of the Stack**  
