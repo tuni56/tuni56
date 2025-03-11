@@ -3,7 +3,7 @@
 # 🧙‍♀️ Rocío Baigorria aka Tuni  
 *"Speak 'friend' and enter... to my code realm"*  
 **Data Alchemist • Cloud Ranger • Mate-powered Coder**  
-<img src="banner.jpg" alt="Banner" width="600">
+
 
 ---
 
