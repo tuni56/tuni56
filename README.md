@@ -73,8 +73,8 @@ Git, Jupyter Notebook, Google Colab
 
 ## 🌐 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
-📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rociobaigorria)  
+📧 Email: rociomnbaigorria@gmail.com  
 🕒 Time Zone: GMT-3 (Argentina)
 
 ---
