@@ -1,115 +1,96 @@
+# 👋 Hi, I'm Rocío – Data Analyst & Python Automation Enthusiast
 
-```markdown
-# 🧙‍♀️ Rocío Baigorria aka Tuni  
-*"Speak 'friend' and enter... to my code realm"*  
-**Data Alchemist • Cloud Ranger • Mate-powered Coder**  
-
+🌎 Based in Argentina | 💻 Open to Remote Projects | 🚀 Freelance & Fractional Roles
 
 ---
 
-## 🌌 **The Red Book of Westmarch (README Edition)**  
+## 🧠 About Me
 
-### 🗡️ **Fellowship of the Stack**  
-```rust
-// Quest parameters
-const CURRENT_CLASS: &str = "Cloud-Breaker Wizard";
-const WEAPONS: [&str; 6] = ["Python", "AWS", "Terraform", "Kubernetes", "Streamlit", "React"];
-const MOUNT: &str = "AWS Lambda";
-const POTION: &str = "Argentinian Mate";
-```
+I’m a passionate **data analyst** with a background in **Industrial Engineering**, currently focused on **Python**, **SQL**, and **cloud computing (AWS)**. 
 
----
+After 4 years of engineering studies, I shifted into tech and enrolled in the **DevOps Bootcamp by EPAM** and a 6-month **Python for Data Science program**, where I’m learning:
+- 📊 Statistics & Machine Learning
+- 🧪 SQL for Analytics
+- 🔧 Automation with Python
+- ☁️ Cloud infrastructure using AWS (EC2, S3)
 
-### 🏰 **Artifacts Forged in the Fires of Mount Doom**  
-
-#### 🔮 **The Seeing Stone (ML Predictions)**  
-*"One model to rule them all, one loss function to bind them"*  
-- **Technologies**: Python • TensorFlow • Scikit-learn  
-
-```python
-def predict_future():
-    while has_mate():
-        train_model()
-        deploy_to_production()
-```
-
-#### ⚔️ **Glamdring (Cloud Infrastructure)**  
-*"Foe-hammer of legacy systems"*  
-- **Technologies**: Terraform • AWS EC2 • S3  
-
-```terraform
-resource "aws_infrastructure" "mordor_gate" {
-  scalability = "unlimited"
-  resilience  = "Balrog-proof"
-}
-```
+I love helping businesses **understand their data, build dashboards, automate repetitive tasks**, and set up simple cloud services to save time and money.
 
 ---
 
-### 📜 **Scrolls of Wisdom (Education)**  
-- **Minas Tirith Academy** (National University of La Plata)  
-  *Majored in Data Prophecies*  
-- **Isengard Institute of Technology** (UTN)  
-  *Studied Pythonic Runes*  
+## 🛠️ Tools & Technologies
+
+**Languages & Libraries:**  
+Python, pandas, seaborn, matplotlib, NumPy, scikit-learn  
+
+**Data & Reporting:**  
+SQL, Power BI, Excel, Google Sheets  
+
+**Cloud & DevOps:**  
+AWS (S3, EC2, CLI), GitHub Actions, Bash, Linux  
+
+**Others:**  
+Git, Jupyter Notebook, Google Colab
 
 ---
 
-### 🏹 **Quests Accomplished**  
+## 💼 What I Can Help You With
 
-| Artifact Name          | Magic Type          | Technologies                          |  
-|------------------------|---------------------|---------------------------------------|  
-| Ticket-Slaying Light    | Streamlit Sorcery   | Python • Pandas • NLP                 |  
-| Lembas Playlist Creator | API Wizardry        | Terraform • Spotify API               |  
-| Responsive Web-Cloak    | Elven Frontend      | HTML5 • CSS Grid • AWS S3             |  
-
----
-
-### 🧪 **Current Brews in the Cauldron**  
-- Teaching Ents about Kubernetes orchestration 🌳  
-- Writing Elvish documentation (readable docstrings) 📜  
-- Fortifying Helm's Deep (cluster security) 🏰  
+✅ Clean and analyze messy data  
+✅ Build dashboards and visualizations  
+✅ Automate Excel or business tasks with Python  
+✅ Write and optimize SQL queries  
+✅ Deploy static sites or tools on AWS  
+✅ Document workflows and teach teams how to use tools  
 
 ---
 
-### 📯 **Summoning Scroll**  
-*"Look to my coming on the first pull request, at dawn look to the CI/CD pipeline."*  
+## 📂 Featured Projects
 
-[![LinkedIn Palantír](https://img.shields.io/badge/-Peer_into_the_Stone-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rociobaigorria/)  
-📫 **Eagle Post**: `rociomnbaigorria@gmail.com`  
+### 📈 [Customer Behavior Analytics](#)
+*Analyzed shopping trends using a mock dataset to find top customers, products, and time-based behavior.*
 
----
-
-### 🔮 **Prophecy of Tomorrow**  
-```mermaid
-graph LR
-    A[Mate Gourd] --> B((Code))
-    B --> C{Deploy?}
-    C -->|Yes| D[Production]
-    C -->|No| E[More Testing]
-    D --> F[Scalable Glory]
-```
+**Tools:** Python, pandas, seaborn, SQL  
+📎 [GitHub Repo](#)
 
 ---
 
-### 🧙‍♂️ **Gandalf's Wisdom**  
-> *"All we have to decide is what to do with the CI/CD pipeline that is given to us."*  
+### 📊 [Sales Dashboard in Power BI](#)
+*Interactive dashboard tracking monthly sales and product performance.*
+
+**Tools:** Power BI, Excel  
+📎 [Screenshots](#)
 
 ---
 
-**⚔️ May your merges be conflict-free and your deployments ever-green!**  
-```diff
-+ Added 5 new AWS certifications
-! Fixed Balrog in production
-- Deprecated legacy systems
-```
+### ☁️ [AWS Static Website Automation](#)
+*Automated deployment of a static website using AWS CLI and GitHub Actions.*
+
+**Tools:** AWS S3, GitHub Actions, Bash  
+📎 [GitHub Repo](#)
+
 ---
 
+## 🌐 Connect With Me
 
+🔗 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)  
+📧 Email: your.email@example.com  
+🕒 Time Zone: GMT-3 (Argentina)
 
+---
 
+## 🚀 Available For
 
+- Freelance Data Projects  
+- Remote Python Automation  
+- Cloud Setup & Support  
+- Entry-Level DevOps or Analytics Help  
+- Fractional Support for Small Businesses
 
+---
 
+### 🔍 SEO Tags:
+`#Freelance Data Analyst` `#Python Automation` `#SQL and AWS Support` `#Remote Data Projects` `#Argentina Developer` `#Power BI and Data Science` `#Entry Level DevOps`
 
 
 
