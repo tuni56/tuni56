@@ -89,7 +89,7 @@ Git, Jupyter Notebook, Google Colab
 
 ---
 
-### 🔍 SEO Tags:
+
 `#Freelance Data Analyst` `#Python Automation` `#SQL and AWS Support` `#Remote Data Projects` `#Argentina Developer` `#Power BI and Data Science` `#Entry Level DevOps`
 
 
