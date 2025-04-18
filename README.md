@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rocío – Data Analyst & Python Automation Enthusiast
+# 👋 Hi, I'm Rocío (AKA Tuni) – Data Analyst & Python Automation Enthusiast
 
 🌎 Based in Argentina | 💻 Open to Remote Projects | 🚀 Freelance & Fractional Roles
 
