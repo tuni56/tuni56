@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate **data analyst** with a background in **Industrial Engineering**, currently focused on **Python**, **SQL**, and **cloud computing (AWS)**. 
+I’m a passionate **data scientist** with a background in **Industrial Engineering**, currently focused on **Python**, **SQL**, and **cloud computing (AWS)**. 
 
 After 4 years of engineering studies, I shifted into tech and enrolled in the **DevOps Bootcamp by EPAM** and a 6-month **Python for Data Science program**, where I’m learning:
 - 📊 Statistics & Machine Learning
@@ -27,7 +27,7 @@ Python, pandas, seaborn, matplotlib, NumPy, scikit-learn
 SQL, Power BI, Excel, Google Sheets  
 
 **Cloud & DevOps:**  
-AWS (S3, EC2, CLI), GitHub Actions, Bash, Linux  
+AWS (S3, EC2, CLI), Azure, GitHub Actions, Bash, Linux  
 
 **Others:**  
 Git, Jupyter Notebook, Google Colab
