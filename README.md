@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I’m a passionate **data scientist** with a background in **Industrial Engineering**, currently focused on **Python**, **SQL**, and **cloud computing (AWS)**. 
+I’m a passionate **data scientist** with a background in **Industrial Engineering**, currently focused on **Python**, **SQL**, and **cloud computing (AWS & Azure)**. 
 
 After 4 years of engineering studies, I shifted into tech and enrolled in the **DevOps Bootcamp by EPAM** and a 6-month **Python for Data Science program**, where I’m learning:
 - 📊 Statistics & Machine Learning
