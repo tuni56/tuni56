@@ -50,7 +50,7 @@ I enjoy solving real-world problems by **cleaning data, building dashboards, aut
 **Implementation:** Built an XGBoost model using AWS SageMaker, implemented a real-time inference endpoint, and created an API with AWS Lambda and API Gateway.  
 **Results:** Achieved 92% prediction accuracy, reduced churn by 24%, saving $2M annually.  
 **Tech:** AWS SageMaker, Python, scikit-learn, XGBoost, AWS Lambda, API Gateway  
-🔗 [GitHub Repo](https://github.com/rocio/churn-prediction) | 🌐 [Live Demo](https://churn.demo.com)  
+🔗 [GitHub Repo](https://github.com/tuni56/customer-churn-prediction) | 🌐 [Live Demo](https://churn.demo.com)  
 
 ---
 
@@ -80,7 +80,7 @@ I enjoy solving real-world problems by **cleaning data, building dashboards, aut
 **Implementation:** Implemented Prophet forecasting model with automated retraining and real-time predictions using AWS Lambda and DynamoDB.  
 **Results:** Reduced inventory costs by 30%, improved forecast accuracy by 40%.  
 **Tech:** Python, Prophet, AWS Lambda, DynamoDB, CloudWatch  
-🔗 [GitHub Repo](https://github.com/rocio/demand-forecast)  
+🔗 [GitHub Repo](https://github.com/tuni56/demand-forecasting-system)  
 
 ---
 
