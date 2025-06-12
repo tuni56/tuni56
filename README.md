@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/Tuni56.png)
+
+![Tuni_56](https://github.com/user-attachments/assets/83a9bb66-2afc-4b6a-99e1-d8088af48a08)
 
 # 👋 Hi, I'm Rocío (aka Tuni) — Data Scientist & Python Automation Specialist
 
