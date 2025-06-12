@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/Tuni56.png)
+
 # 👋 Hi, I'm Rocío (aka Tuni) — Data Scientist & Python Automation Specialist
 
 🌎 Based in Argentina | 💼 Open to Remote & Freelance Roles | 🚀 Focused on ML, Analytics & Cloud
