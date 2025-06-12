@@ -60,7 +60,7 @@ I enjoy solving real-world problems by **cleaning data, building dashboards, aut
 **Implementation:** Created ETL pipeline using AWS Glue, implemented data quality checks, and built a Redshift data warehouse.  
 **Results:** Reduced data processing time by 70%, enabled real-time analytics.  
 **Tech:** AWS S3, AWS Glue, Amazon Redshift, Apache Spark, AWS Lambda  
-🔗 [GitHub Repo](https://github.com/rocio/data-pipeline)  
+🔗 [GitHub Repo](https://github.com/tuni56/datalake-analytics-pipeline)  
 
 ---
 
