@@ -73,7 +73,7 @@ I enjoy solving real-world problems by **cleaning data, building dashboards, aut
 **Implementation:** Developed Amazon QuickSight dashboard with drill-down capabilities and automated data refresh.  
 **Results:** Improved decision-making speed by 50%, increased sales team efficiency.  
 **Tech:** Amazon QuickSight, AWS Athena, S3, Python, Pandas  
-🔗 [GitHub Repo](https://github.com/tuni56/datalake-analytics-pipeline) 
+🔗 [GitHub Repo](https://github.com/tuni56/sales-analytics-aws) 
 
 ---
 
