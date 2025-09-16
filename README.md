@@ -1,4 +1,6 @@
-<img width="2240" height="1260" alt="Channel Youtube Banner" src="https://github.com/user-attachments/assets/4a953084-7c1f-4673-9fdb-71c95f3962ac" />
+
+<img width="2560" height="1440" alt="Blue Modern Photo Technology YouTube Banner" src="https://github.com/user-attachments/assets/bc79260d-37b9-4523-9755-57b9a734237a" />
+
 👋 Hi, I'm Rocío — AWS-Certified Data Scientist helping companies save millions with ML + Cloud Analytics
 🚀 Building @rocio.data | 📺 Launching AWS Mondays on YouTube | 🎧 Data Conversations Podcast
 🌎 Argentina → Global | 💼 Open to Remote & Strategic Consulting | ☁️ AWS Solutions Architect Professional
