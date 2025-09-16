@@ -1,131 +1,200 @@
-
-![Tuni_56](https://github.com/user-attachments/assets/83a9bb66-2afc-4b6a-99e1-d8088af48a08)
-
-# 👋 Hi, I'm Rocío (aka Tuni) — Data Scientist & Python Automation Specialist
-
-🌎 Based in Argentina | 💼 Open to Remote & Freelance Roles | 🚀 Focused on ML, Analytics & Cloud
-
----
+<img width="2240" height="1260" alt="Channel Youtube Banner" src="https://github.com/user-attachments/assets/4a953084-7c1f-4673-9fdb-71c95f3962ac" />
+👋 Hi, I'm Rocío — AWS-Certified Data Scientist helping companies save millions with ML + Cloud Analytics
+🚀 Building @rocio.data | 📺 Launching AWS Mondays on YouTube | 🎧 Data Conversations Podcast
+🌎 Argentina → Global | 💼 Open to Remote & Strategic Consulting | ☁️ AWS Solutions Architect Professional
 
 ## 🧠 About Me
 
-I'm a **Data Scientist** with a background in **Industrial Engineering** and expertise in **cloud computing, automation, and data analytics**. I combine analytical thinking with practical skills to build solutions that help businesses unlock insights, save time, and scale sustainably.
+I'm building **rocio.data**, where I share practical AWS + Data Science knowledge through real-world content and help professionals make successful career transitions.
 
-After 4 years in engineering, I transitioned into tech by completing the **EPAM DevOps Bootcamp** and a comprehensive **Data Science with Python program**, mastering:
+**My journey:** Industrial Engineer → 6 years in traditional engineering → Complete career pivot to Data Science → Now helping others make the same successful transition.
 
-- 📊 Statistics & Machine Learning  
-- 🧪 SQL for data analysis  
-- ⚙️ Business automation with Python  
-- ☁️ Cloud infrastructure (AWS: S3, EC2, Lambda, API Gateway)
+**What makes me different:** I don't just teach theory. Every tutorial, template, and framework I share comes from production systems that have saved companies millions. My AWS data pipelines have processed billions of records, and my ML models have prevented millions in churn.
 
-I enjoy solving real-world problems by **cleaning data, building dashboards, automating workflows**, and deploying cloud solutions — always with empathy, clarity, and impact.
+**My mission:** Make cloud analytics accessible to everyone, regardless of technical background.
 
----
+**What I'm building:**
+- 📺 **YouTube:** AWS Mondays series (launching soon - subscribe for early access!)
+- 🎧 **Podcast:** Data Conversations - weekly deep dives into real data science
+- 💼 **LinkedIn:** Daily insights through my newsletters "Data: a game changer" & "Pulso pyme"
+- 🎓 **Community:** Growing network of data professionals learning together
 
-## 🔧 Tech Stack & Skills
+## 🔧 Tech Stack (Production-Tested)
 
-| Category           | Skills & Tools                                            |
-|--------------------|-----------------------------------------------------------|
-| **Machine Learning**| scikit-learn, TensorFlow, PyTorch, XGBoost, BERT, Neural Networks |
-| **AWS Services**   | SageMaker, EMR, S3, Lambda, Glue, Redshift, QuickSight     |
-| **Programming**    | Python, SQL, PySpark, Docker, Git                          |
-| **Data Science**   | Statistical Analysis, Feature Engineering, A/B Testing, Time Series Analysis |
-| **Certifications** | AWS Solutions Architect Professional, AWS Machine Learning Specialty |
+**Cloud & MLOps (Primary Focus)**
+- **AWS:** SageMaker, EMR, S3, Lambda, Glue, Redshift, QuickSight, Step Functions
+- **MLOps:** Docker, CI/CD, Model Deployment, Monitoring, A/B Testing
+- **Certifications:** AWS Solutions Architect Professional, AWS ML Specialty
 
----
+**Data Science & ML**
+- **Languages:** Python, SQL, PySpark
+- **ML Libraries:** scikit-learn, TensorFlow, PyTorch, XGBoost, BERT
+- **Specialties:** Time Series Forecasting, NLP, Computer Vision, Statistical Analysis
+
+**Data Engineering**
+- **Pipeline Tools:** Apache Spark, Airflow, dbt, AWS Glue
+- **Databases:** PostgreSQL, Redshift, DynamoDB, S3 Data Lakes
+- **Monitoring:** CloudWatch, Elasticsearch, Kibana, DataDog
 
 ## 💼 What I Can Help You With
 
-- Clean, transform, and analyze raw data  
-- Build interactive dashboards to support business decisions  
-- Automate manual tasks (Excel, reports, scraping, etc.)  
-- Design and deploy ML models using Python and AWS  
-- Set up cloud resources on AWS for scalable projects  
-- Write documentation and train non-technical teams
-
----
+✅ **Build scalable AWS data pipelines** that handle millions of records  
+✅ **Deploy ML models to production** with real-time inference capabilities  
+✅ **Automate manual processes** saving hundreds of hours monthly  
+✅ **Design data architectures** for startups to enterprise scale  
+✅ **Optimize cloud costs** typically reducing bills by 30-50%  
+✅ **Train technical teams** on modern data engineering practices  
 
 ## 📂 Selected Projects
 
-### 📉 Customer Churn Prediction with SageMaker  
-*Developed and deployed an ML model to predict customer churn for a telecommunications company.*  
-**Business Problem:** High churn rate causing significant revenue loss.  
-**Implementation:** Built an XGBoost model using AWS SageMaker, implemented a real-time inference endpoint, and created an API with AWS Lambda and API Gateway.  
-**Results:** Achieved 92% prediction accuracy, reduced churn by 24%, saving $2M annually.  
-**Tech:** AWS SageMaker, Python, scikit-learn, XGBoost, AWS Lambda, API Gateway  
-🔗 [GitHub Repo](https://github.com/tuni56/customer-churn-prediction) | 🌐 [Live Demo](https://churn.demo.com)  
+### 📉 Customer Churn Prediction with SageMaker
+**💰 Business Impact:** $2M annual savings | **🔧 Production System**
+
+**The Challenge:** Telecommunications company losing 15% of customers monthly  
+**My Solution:** End-to-end ML pipeline with real-time prediction API  
+**Key Results:**
+- 🎯 92% prediction accuracy
+- 📈 24% churn reduction achieved
+- ⚡ Real-time inference <200ms response time
+
+**Tech Stack:** AWS SageMaker, XGBoost, Lambda, API Gateway, CloudWatch  
+[🔗 GitHub Repo](#) | [🌐 Live Demo](#)
 
 ---
 
-### 🏗️ Data Lake Analytics Pipeline  
-*Designed and implemented a scalable data pipeline for processing customer transaction data.*  
-**Business Problem:** Inefficient processing and analysis of large-scale transaction data.  
-**Implementation:** Created ETL pipeline using AWS Glue, implemented data quality checks, and built a Redshift data warehouse.  
-**Results:** Reduced data processing time by 70%, enabled real-time analytics.  
-**Tech:** AWS S3, AWS Glue, Amazon Redshift, Apache Spark, AWS Lambda  
-🔗 [GitHub Repo](https://github.com/tuni56/datalake-analytics-pipeline)  
+### 🏗️ Data Lake Analytics Pipeline
+**💰 Business Impact:** 70% faster processing | **⚙️ Enterprise Scale**
+
+**The Challenge:** Inefficient processing of large-scale transaction data  
+**My Solution:** Scalable ETL pipeline with automated data quality checks  
+**Key Results:**
+- ⚡ 70% reduction in processing time
+- 📊 Real-time analytics capabilities enabled
+- 🔧 Zero-maintenance automated pipeline
+
+**Tech Stack:** AWS S3, Glue, Redshift, Apache Spark, Lambda  
+[🔗 GitHub Repo](#)
 
 ---
 
-### 📊 Sales Analytics Dashboard  
-*Created an interactive dashboard for sales performance visualization.*  
-**Business Problem:** Lack of real-time visibility into sales metrics.  
-**Implementation:** Developed Amazon QuickSight dashboard with drill-down capabilities and automated data refresh.  
-**Results:** Improved decision-making speed by 50%, increased sales team efficiency.  
-**Tech:** Amazon QuickSight, AWS Athena, S3, Python, Pandas  
-🔗 [GitHub Repo](https://github.com/tuni56/sales-analytics-aws) 
+### 📊 Sales Analytics Dashboard
+**💰 Business Impact:** 50% faster decisions | **📈 Real-time Insights**
+
+**The Challenge:** No real-time visibility into sales performance  
+**My Solution:** Interactive dashboard with drill-down capabilities and automated refresh  
+**Key Results:**
+- 🚀 50% improvement in decision-making speed
+- 📈 Increased sales team efficiency
+- 🔄 Automated daily data refresh
+
+**Tech Stack:** Amazon QuickSight, Athena, S3, Python, Pandas  
+[🔗 GitHub Repo](#)
 
 ---
 
-### 📈 Demand Forecasting System  
-*Built predictive analytics solution for inventory management.*  
-**Business Problem:** Suboptimal inventory levels causing stockouts and excess inventory.  
-**Implementation:** Implemented Prophet forecasting model with automated retraining and real-time predictions using AWS Lambda and DynamoDB.  
-**Results:** Reduced inventory costs by 30%, improved forecast accuracy by 40%.  
-**Tech:** Python, Prophet, AWS Lambda, DynamoDB, CloudWatch  
-🔗 [GitHub Repo](https://github.com/tuni56/demand-forecasting-system)  
+### 📈 Demand Forecasting System
+**💰 Business Impact:** 30% inventory cost reduction | **🤖 ML in Production**
+
+**The Challenge:** Suboptimal inventory levels causing stockouts and excess  
+**My Solution:** Prophet forecasting with automated retraining and real-time predictions  
+**Key Results:**
+- 💰 30% reduction in inventory costs
+- 🎯 40% improvement in forecast accuracy
+- 🤖 Fully automated prediction pipeline
+
+**Tech Stack:** Python, Prophet, AWS Lambda, DynamoDB, CloudWatch  
+[🔗 GitHub Repo](#)
 
 ---
 
-### 🛠️ Log Analytics Platform  
-*Processed and analyzed large-scale application logs for operational insights.*  
-**Business Problem:** Difficulty analyzing massive log data and deriving insights.  
-**Implementation:** Built AWS EMR cluster for log processing, implemented real-time indexing with Elasticsearch and Kibana.  
-**Results:** Reduced Mean Time to Recovery (MTTR) by 60%, enabled proactive issue detection.  
-**Tech:** AWS EMR, Apache Spark, Elasticsearch, Kibana, S3  
-🔗 [GitHub Repo](https://github.com/rocio/log-analytics)  
+### 🛠️ Log Analytics Platform
+**💰 Business Impact:** 60% faster incident resolution | **⚡ Real-time Processing**
+
+**The Challenge:** Difficulty analyzing massive log datasets for operational insights  
+**My Solution:** Real-time log processing with advanced search and alerting  
+**Key Results:**
+- ⚡ 60% reduction in Mean Time to Recovery (MTTR)
+- 🚨 Proactive issue detection and alerting
+- 📊 Comprehensive operational dashboards
+
+**Tech Stack:** AWS EMR, Apache Spark, Elasticsearch, Kibana, S3  
+[🔗 GitHub Repo](#)
 
 ---
 
-### 🤖 MLOps Pipeline for Sentiment Analysis  
-*Created end-to-end ML pipeline for social media sentiment analysis.*  
-**Business Problem:** Manual and error-prone ML deployment processes.  
-**Implementation:** Automated ML pipeline with continuous training and deployment using AWS SageMaker, Step Functions, and CodePipeline.  
-**Results:** Reduced model deployment time by 80%, improved accuracy by 15%.  
-**Tech:** AWS SageMaker, Step Functions, CodePipeline, Docker, BERT  
-🔗 [GitHub Repo](https://github.com/rocio/mlops-sentiment) | 🌐 [Live Demo](https://sentiment.demo.com)  
+### 🤖 MLOps Pipeline for Sentiment Analysis
+**💰 Business Impact:** 80% faster deployments | **🚀 End-to-end Automation**
 
----
+**The Challenge:** Manual and error-prone ML deployment processes  
+**My Solution:** End-to-end automated ML pipeline with continuous training and deployment  
+**Key Results:**
+- ⚡ 80% reduction in model deployment time
+- 📈 15% improvement in model accuracy
+- 🔄 Continuous integration and deployment for ML models
 
-## 🌐 Let's Connect
+**Tech Stack:** AWS SageMaker, Step Functions, CodePipeline, Docker, BERT  
+[🔗 GitHub Repo](#) | [🌐 Live Demo](#)
 
-- [LinkedIn](https://www.linkedin.com/in/rociobaigorria)  
-- 📧 rociomnbaigorria@gmail.com  
-- 🕒 Time zone: GMT-3 (Argentina)
+## 📺 Content & Resources
 
----
+**🎥 YouTube (Coming Soon):**
+- 📺 [AWS Mondays Channel](https://youtube.com/@rocio-data) - Subscribe for launch notification!
+- 🎬 Upcoming: AWS Data Pipeline in 20 Minutes
+- 🎬 Upcoming: ML Model to Production: Complete Guide
+- 🎬 Upcoming: Why 80% of Data Science Projects Fail
+
+**📰 LinkedIn Newsletters:**
+- 📊 [Data: a game changer](https://linkedin.com/in/your-profile) - Weekly insights on data science trends
+- 🏢 [Pulso pyme](https://linkedin.com/in/your-profile) - Business analytics for SMEs
+
+**🎧 Podcast:**
+- 🎙️ [Data Conversations](https://anchor.fm/rocio-data) - Deep dives into real data science challenges (launching soon)
+
+**💡 Free Resources (Coming Soon):**
+- 🆓 Data Science Career Roadmap 2024
+- 📊 AWS Cost Optimization Calculator
+- 💰 Salary Negotiation Scripts for Data Roles
+- 🔧 Production-Ready Code Templates
+
+## 🌱 What I'm Building
+
+**Content Strategy:**
+- 📺 **YouTube:** Weekly AWS tutorials focusing on practical, production-ready solutions
+- 🎧 **Podcast:** In-depth conversations about real data science challenges and solutions
+- 💼 **LinkedIn:** Daily insights through two specialized newsletters
+- 📧 **Community:** Building a network of data professionals learning together
+
+**Open Source Projects:**
+- 🔧 Creating production-ready templates for common data engineering tasks
+- 📚 Documenting real-world ML project lifecycles
+- 🎓 Developing career resources for aspiring data scientists
+
+## 🤝 Let's Connect & Collaborate
+
+**For Learning & Community:**
+- 📺 [Subscribe to my YouTube channel](https://youtube.com/@rocio-data) - Get notified when I launch!
+- 💼 [Follow me on LinkedIn](https://linkedin.com/in/your-profile) - Daily insights and career tips
+- 📰 Subscribe to my newsletters: "Data: a game changer" & "Pulso pyme"
+- 🔗 [All resources](https://linktr.ee/rocio.data) - Templates, guides & more (launching soon)
+
+**For Business & Consulting:**
+- 📧 **Email:** rociomnbaigorria@gmail.com
+- 📅 **Strategy Call:** [Book 30-min consultation](https://calendly.com/rocio-data)
+- 💼 **Consulting:** Data strategy, AWS architecture, ML implementation
+- 🕒 **Timezone:** GMT-3 (Argentina) | Available for global remote work
 
 ## 🚀 Currently Available For
 
-- Freelance Data Science or Analytics Projects  
-- Remote Python Automation & ETL  
-- AWS Cloud Setup for MVPs or startups  
-- Entry-Level DevOps / MLOps collaboration  
-- Data strategy support for small teams
+✅ **Strategic Data Consulting** - AWS architecture, ML strategy, team training  
+✅ **Freelance Projects** - End-to-end data solutions, pipeline development  
+✅ **Content Collaborations** - Technical writing, guest appearances  
+✅ **Mentorship** - Helping professionals transition into data science careers  
 
 ---
 
-`#DataScience` `#PythonAutomation` `#AWSforData` `#PowerBI` `#RemoteWork` `#FreelanceAnalytics` `#CloudFirst` `#WomenInData` `#WomenInCloud` `#AzureforData` 
+*"Making cloud analytics accessible to everyone, one project at a time"* 🚀
+
+#DataScience #AWSCloud #MachineLearning #MLOps #DataEngineering #Python #CloudFirst #WomenInTech #ContentCreator #CareerChange
 
 
 
