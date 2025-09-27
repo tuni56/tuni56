@@ -60,7 +60,7 @@ I'm building **rocio.data**, where I share practical AWS + Data Science knowledg
 - ⚡ Real-time inference <200ms response time
 
 **Tech Stack:** AWS SageMaker, XGBoost, Lambda, API Gateway, CloudWatch  
-[🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+🔗 https://github.com/tuni56/customer-churn-prediction](#) 
 
 ---
 
@@ -75,7 +75,7 @@ I'm building **rocio.data**, where I share practical AWS + Data Science knowledg
 - 🔧 Zero-maintenance automated pipeline
 
 **Tech Stack:** AWS S3, Glue, Redshift, Apache Spark, Lambda  
-[🔗 GitHub Repo](#)
+🔗 https://github.com/tuni56/datalake-analytics-pipeline(#)
 
 ---
 
@@ -90,7 +90,7 @@ I'm building **rocio.data**, where I share practical AWS + Data Science knowledg
 - 🔄 Automated daily data refresh
 
 **Tech Stack:** Amazon QuickSight, Athena, S3, Python, Pandas  
-[🔗 GitHub Repo](#)
+🔗 https://github.com/tuni56/sales-analytics-dashboard(#)
 
 ---
 
@@ -105,7 +105,7 @@ I'm building **rocio.data**, where I share practical AWS + Data Science knowledg
 - 🤖 Fully automated prediction pipeline
 
 **Tech Stack:** Python, Prophet, AWS Lambda, DynamoDB, CloudWatch  
-[🔗 GitHub Repo](#)
+🔗 https://github.com/tuni56/demand-forecasting-system(#)
 
 ---
 
