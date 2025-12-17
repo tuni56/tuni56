@@ -1,204 +1,119 @@
 
-<img width="2560" height="1440" alt="Blue Modern Photo Technology YouTube Banner" src="https://github.com/user-attachments/assets/bc79260d-37b9-4523-9755-57b9a734237a" />
+## Hey, I'm Rocío
 
-👋 Hi, I'm Rocío — AWS-Certified Data Scientist helping companies save millions with ML + Cloud Analytics
-🚀 Building @rocio.data | 📺 Launching AWS Mondays on YouTube | 🎧 Data Conversations Podcast
-🌎 Argentina → Global | 💼 Open to Remote & Strategic Consulting | ☁️ AWS Solutions Architect Professional
+**I help people who are stuck in the wrong career move into data science without losing their minds.** And I've built real production systems that saved companies millions—not as a flex, but because I know what actually works.
 
-## 🧠 About Me
+### The Real Story
 
-I'm building **rocio.data**, where I share practical AWS + Data Science knowledge through real-world content and help professionals make successful career transitions.
+Six years ago, I was doing traditional engineering. Good job. Good salary. Completely unfulfilled.
 
-**My journey:** Industrial Engineer → 6 years in traditional engineering → Complete career pivot to Data Science → Now helping others make the same successful transition.
+Then I went all-in on data science. Taught myself. Made mistakes. Burned out. Built things nobody used. Got rejected from jobs I was overqualified for. Eventually figured out what actually matters.
 
-**What makes me different:** I don't just teach theory. Every tutorial, template, and framework I share comes from production systems that have saved companies millions. My AWS data pipelines have processed billions of records, and my ML models have prevented millions in churn.
+Now? I'm on the other side, and I'm obsessed with helping people make that transition *without* going through all the chaos I did.
 
-**My mission:** Make cloud analytics accessible to everyone, regardless of technical background.
+**What makes this different:** I don't sell theory. Every template, framework, and tutorial I share comes from production systems running right now. My AWS pipelines have processed billions of records. My models have prevented millions in churn. I'm not teaching from a textbook—I'm teaching from scars.
 
-**What I'm building:**
-- 📺 **YouTube:** AWS Mondays series (launching soon - subscribe for early access!)
-- 🎧 **Podcast:** Data Conversations - weekly deep dives into real data science
-- 💼 **LinkedIn:** Daily insights through my newsletters "Data: a game changer" & "Pulso pyme"
-- 🎓 **Community:** Growing network of data professionals learning together
+***
 
-## 🔧 Tech Stack (Production-Tested)
+### Here's What I Actually Do
 
-**Cloud & MLOps (Primary Focus)**
-- **AWS:** SageMaker, EMR, S3, Lambda, Glue, Redshift, QuickSight, Step Functions
-- **MLOps:** Docker, CI/CD, Model Deployment, Monitoring, A/B Testing
-- **Certifications:** AWS Solutions Architect Professional, AWS ML Specialty
+**For Companies:**
 
-**Data Science & ML**
-- **Languages:** Python, SQL, PySpark
-- **ML Libraries:** scikit-learn, TensorFlow, PyTorch, XGBoost, BERT
-- **Specialties:** Time Series Forecasting, NLP, Computer Vision, Statistical Analysis
+* Build scalable AWS data pipelines that handle millions of records without breaking
+* Deploy ML models to production (not just notebooks that collect dust)
+* Automate the manual processes that waste your team's time
+* Reduce your cloud costs by 30-50% (yeah, that's real)
+* Train teams on modern data engineering so they're not dependent on one person
 
-**Data Engineering**
-- **Pipeline Tools:** Apache Spark, Airflow, dbt, AWS Glue
-- **Databases:** PostgreSQL, Redshift, DynamoDB, S3 Data Lakes
-- **Monitoring:** CloudWatch, Elasticsearch, Kibana, DataDog
+**For People Like You:**
 
-## 💼 What I Can Help You With
+* Help career-changers transition into data science the right way
+* Share production-tested code templates (no fluff)
+* Mentor through the tough moments (imposter syndrome is real)
+* Break down the "why" behind architecture decisions—not just the "what"
 
-✅ **Build scalable AWS data pipelines** that handle millions of records  
-✅ **Deploy ML models to production** with real-time inference capabilities  
-✅ **Automate manual processes** saving hundreds of hours monthly  
-✅ **Design data architectures** for startups to enterprise scale  
-✅ **Optimize cloud costs** typically reducing bills by 30-50%  
-✅ **Train technical teams** on modern data engineering practices  
+***
 
-## 📂 Selected Projects
+### The Work I'm Most Proud Of
 
-### 📉 Customer Churn Prediction with SageMaker
-**💰 Business Impact:** $2M annual savings | **🔧 Production System**
+**$2M Annual Savings** | Customer Churn Prediction System A telecom company was losing 15% of customers monthly. We built an ML pipeline that identified at-risk customers *before* they left. 92% accuracy. 24% churn reduction. Real-time predictions in <200ms. → [See the code](https://github.com/tuni56/customer-churn-prediction)
 
-**The Challenge:** Telecommunications company losing 15% of customers monthly  
-**My Solution:** End-to-end ML pipeline with real-time prediction API  
-**Key Results:**
-- 🎯 92% prediction accuracy
-- 📈 24% churn reduction achieved
-- ⚡ Real-time inference <200ms response time
+**70% Faster Processing** | Data Lake Analytics Pipeline\
+Large transaction datasets were taking forever to process. We automated the entire ETL pipeline with data quality checks built in. Went from days to hours. Zero maintenance after launch. → [See the code](https://github.com/tuni56/datalake-analytics-pipeline)
 
-**Tech Stack:** AWS SageMaker, XGBoost, Lambda, API Gateway, CloudWatch  
-🔗 https://github.com/tuni56/customer-churn-prediction
+**50% Faster Decisions** | Real-time Sales Analytics\
+Sales team was working off yesterday's data. We built an automated dashboard with drill-down capabilities. Now they see performance in real-time. Decision-making got dramatically faster. → [See the code](https://github.com/tuni56/sales-analytics-dashboard)
 
----
+**30% Cost Reduction** | Demand Forecasting System Inventory levels were all over the place—too much stock, stockouts, money wasted. Built an automated forecasting pipeline that retrains itself. Now they predict demand accurately. → [See the code](https://github.com/tuni56/demand-forecasting-system)
 
-### 🏗️ Data Lake Analytics Pipeline
-**💰 Business Impact:** 70% faster processing | **⚙️ Enterprise Scale**
+**60% Faster Incident Resolution** | Log Analytics Platform Operations team was drowning in logs. Built real-time processing with intelligent alerting. Issues get caught and fixed before they become disasters. → [See the code](https://github.com/tuni56/log-analytics-platform)
 
-**The Challenge:** Inefficient processing of large-scale transaction data  
-**My Solution:** Scalable ETL pipeline with automated data quality checks  
-**Key Results:**
-- ⚡ 70% reduction in processing time
-- 📊 Real-time analytics capabilities enabled
-- 🔧 Zero-maintenance automated pipeline
+**80% Faster Deployments** | MLOps Pipeline for NLP ML models were being deployed manually—slow, error-prone, risky. Built an automated pipeline with continuous training. Models now deploy in a fraction of the time with better accuracy. → [See the code](https://github.com/tuni56/mlops-sentiment-analysis)
 
-**Tech Stack:** AWS S3, Glue, Redshift, Apache Spark, Lambda  
-🔗 https://github.com/tuni56/datalake-analytics-pipeline
+***
 
----
+### What I'm Building Right Now
 
-### 📊 Sales Analytics Dashboard
-**💰 Business Impact:** 50% faster decisions | **📈 Real-time Insights**
+Just got back from AWS reinvent and honestly? The energy around what's possible with AI and data is wild. I'm channeling everything I learned into what I'm shipping next.
 
-**The Challenge:** No real-time visibility into sales performance  
-**My Solution:** Interactive dashboard with drill-down capabilities and automated refresh  
-**Key Results:**
-- 🚀 50% improvement in decision-making speed
-- 📈 Increased sales team efficiency
-- 🔄 Automated daily data refresh
+**🌐 AWSWomenincloud** — Co-leading a community of women from different backgrounds united by AWS learning in Buenos Aires. We're proving that tech is for everyone. If you're in Buenos Aires or want to connect with the community, let's talk.
 
-**Tech Stack:** Amazon QuickSight, Athena, S3, Python, Pandas  
-🔗 https://github.com/tuni56/sales-analytics-dashboard
+**📺 AWS Mondays** — YouTube series dropping soon. Real AWS tutorials that actually solve problems. Not 45-minute videos on basic concepts. This is production-ready. Fresh ideas from reinvent already in the pipeline.
 
----
+**🎧 Data Conversations Podcast** — Deep dives with real data professionals about what works and what doesn't. The messy reality, not the polished version.
 
-### 📈 Demand Forecasting System
-**💰 Business Impact:** 30% inventory cost reduction | **🤖 ML in Production**
+**📰 Two LinkedIn Newsletters:**
 
-**The Challenge:** Suboptimal inventory levels causing stockouts and excess  
-**My Solution:** Prophet forecasting with automated retraining and real-time predictions  
-**Key Results:**
-- 💰 30% reduction in inventory costs
-- 🎯 40% improvement in forecast accuracy
-- 🤖 Fully automated prediction pipeline
+* *Data: a game changer* — Weekly insights on data science trends and career moves
+* *Pulso pyme* — Business analytics for SMEs (Spanish-speaking audience)
 
-**Tech Stack:** Python, Prophet, AWS Lambda, DynamoDB, CloudWatch  
-🔗 https://github.com/tuni56/demand-forecasting-system
+**🔧 Free Resources** — Career roadmap for transitioning into data science, cost optimization templates, salary negotiation scripts, production-ready code templates (actually launching these soon)
 
----
+***
 
-### 🛠️ Log Analytics Platform
-**💰 Business Impact:** 60% faster incident resolution | **⚡ Real-time Processing**
+### My Tech Stack (What Actually Matters)
 
-**The Challenge:** Difficulty analyzing massive log datasets for operational insights  
-**My Solution:** Real-time log processing with advanced search and alerting  
-**Key Results:**
-- ⚡ 60% reduction in Mean Time to Recovery (MTTR)
-- 🚨 Proactive issue detection and alerting
-- 📊 Comprehensive operational dashboards
+**Cloud & MLOps** — AWS (SageMaker, S3, Lambda, Glue, Redshift, QuickSight, Step Functions), Docker, CI/CD, Model monitoring, A/B testing
 
-**Tech Stack:** AWS EMR, Apache Spark, Elasticsearch, Kibana, S3  
-[🔗 GitHub Repo](#)
+**Data Science & ML** — Python, SQL, PySpark, scikit-learn, TensorFlow, PyTorch, XGBoost, BERT. Specialties: time series forecasting, NLP, computer vision
 
----
+**Data Engineering** — Apache Spark, Airflow, dbt, AWS Glue, PostgreSQL, Redshift, DynamoDB, CloudWatch, Elasticsearch
 
-### 🤖 MLOps Pipeline for Sentiment Analysis
-**💰 Business Impact:** 80% faster deployments | **🚀 End-to-end Automation**
+**Certifications & Recognition** — AWS Solutions Architect Professional, AWS ML Specialty, AWS All Builders Welcome Program recipient, just back from AWS reinvent 2025
 
-**The Challenge:** Manual and error-prone ML deployment processes  
-**My Solution:** End-to-end automated ML pipeline with continuous training and deployment  
-**Key Results:**
-- ⚡ 80% reduction in model deployment time
-- 📈 15% improvement in model accuracy
-- 🔄 Continuous integration and deployment for ML models
+***
 
-**Tech Stack:** AWS SageMaker, Step Functions, CodePipeline, Docker, BERT  
-[🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+### If You're Considering Reaching Out
 
-## 📺 Content & Resources
+**You should talk to me if:**
 
-**🎥 YouTube (Coming Soon):**
-- 📺 [AWS Mondays Channel](https://youtube.com/@rocio-data) - Subscribe for launch notification!
-- 🎬 Upcoming: AWS Data Pipeline in 20 Minutes
-- 🎬 Upcoming: ML Model to Production: Complete Guide
-- 🎬 Upcoming: Why 80% of Data Science Projects Fail
+* You're thinking about making a career pivot into data science and want to avoid my mistakes
+* Your company needs to build a scalable data strategy but doesn't know where to start
+* You've got messy data and no time to figure it out
+* You're building a data team and need someone who actually knows how to do this
 
-**📰 LinkedIn Newsletters:**
-- 📊 [Data: a game changer](https://linkedin.com/in/your-profile) - Weekly insights on data science trends
-- 🏢 [Pulso pyme](https://linkedin.com/in/your-profile) - Business analytics for SMEs
+**Let's connect:**
 
-**🎧 Podcast:**
-- 🎙️ [Data Conversations](https://anchor.fm/rocio-data) - Deep dives into real data science challenges (launching soon)
+* 📧 Email: <rociomnbaigorria@gmail.com>
+* 📅 [Book a 30-min strategy call](link-here)
+* 💼 Follow me on LinkedIn for daily insights
+* 📺 Subscribe to AWS Mondays (launching soon)
+* 🎧 Subscribe to Data Conversations Podcast
+* 🌐 Join AWSWomenincloud — Whether you're in Buenos Aires or anywhere else, if you're a woman interested in AWS learning, let's build this together
 
-**💡 Free Resources (Coming Soon):**
-- 🆓 Data Science Career Roadmap 2024
-- 📊 AWS Cost Optimization Calculator
-- 💰 Salary Negotiation Scripts for Data Roles
-- 🔧 Production-Ready Code Templates
+I'm in Argentina (GMT-3) but available for global remote work. Seriously. Let's talk.
 
-## 🌱 What I'm Building
+***
 
-**Content Strategy:**
-- 📺 **YouTube:** Weekly AWS tutorials focusing on practical, production-ready solutions
-- 🎧 **Podcast:** In-depth conversations about real data science challenges and solutions
-- 💼 **LinkedIn:** Daily insights through two specialized newsletters
-- 📧 **Community:** Building a network of data professionals learning together
+### One More Thing
 
-**Open Source Projects:**
-- 🔧 Creating production-ready templates for common data engineering tasks
-- 📚 Documenting real-world ML project lifecycles
-- 🎓 Developing career resources for aspiring data scientists
+"Making data accessible to people who actually care about using it."
 
-## 🤝 Let's Connect & Collaborate
+I don't measure success by YouTube subscribers or Twitter followers. I measure it by the number of people who made a career move they thought was impossible, or the companies that finally have data infrastructure that doesn't make them want to cry.
 
-**For Learning & Community:**
-- 📺 [Subscribe to my YouTube channel](https://youtube.com/@rocio-data) - Get notified when I launch!
-- 💼 [Follow me on LinkedIn](https://linkedin.com/in/your-profile) - Daily insights and career tips
-- 📰 Subscribe to my newsletters: "Data: a game changer" & "Pulso pyme"
-- 🔗 [All resources](https://linktr.ee/rocio.data) - Templates, guides & more (launching soon)
+That's what I'm building toward.
 
-**For Business & Consulting:**
-- 📧 **Email:** rociomnbaigorria@gmail.com
-- 📅 **Strategy Call:** [Book 30-min consultation](https://calendly.com/rocio-data)
-- 💼 **Consulting:** Data strategy, AWS architecture, ML implementation
-- 🕒 **Timezone:** GMT-3 (Argentina) | Available for global remote work
-
-## 🚀 Currently Available For
-
-✅ **Strategic Data Consulting** - AWS architecture, ML strategy, team training  
-✅ **Freelance Projects** - End-to-end data solutions, pipeline development  
-✅ **Content Collaborations** - Technical writing, guest appearances  
-✅ **Mentorship** - Helping professionals transition into data science careers  
-
----
-
-*"Making cloud analytics accessible to everyone, one project at a time"* 🚀
-
-#DataScience #AWSCloud #MachineLearning #MLOps #DataEngineering #Python #CloudFirst #WomenInTech #ContentCreator #CareerChange
-
-
+**#DataScience #AWSCloud #MachineLearning #CareerChange #DataEngineering #CloudFirst #ProductionReady #WomenInTech**
 
 
 
