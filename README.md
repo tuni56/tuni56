@@ -1,119 +1,139 @@
+# Hi, I’m Rocío 👋
 
-## Hey, I'm Rocío
+I’m a **Data Engineer** with experience building **data pipelines, streaming systems, and ML-driven analytics** using **Python and AWS**.
 
-**I help people who are stuck in the wrong career move into data science without losing their minds.** And I've built real production systems that saved companies millions—not as a flex, but because I know what actually works.
+I come from a traditional engineering background and transitioned into data engineering by building real systems end to end — not just notebooks or tutorials. I focus on **making data usable, scalable, and reliable**, especially in environments where resources, time, or cloud budgets are limited.
 
-### The Real Story
+---
 
-Six years ago, I was doing traditional engineering. Good job. Good salary. Completely unfulfilled.
+## What I Work On
 
-Then I went all-in on data science. Taught myself. Made mistakes. Burned out. Built things nobody used. Got rejected from jobs I was overqualified for. Eventually figured out what actually matters.
+I design and implement systems that:
+- Ingest and process data reliably
+- Support analytics and machine learning use cases
+- Follow cloud-native and event-driven architecture principles
+- Are understandable and maintainable by teams
 
-Now? I'm on the other side, and I'm obsessed with helping people make that transition *without* going through all the chaos I did.
+My work sits at the intersection of **data engineering, backend systems, and applied machine learning**.
 
-**What makes this different:** I don't sell theory. Every template, framework, and tutorial I share comes from production systems running right now. My AWS pipelines have processed billions of records. My models have prevented millions in churn. I'm not teaching from a textbook—I'm teaching from scars.
+---
 
-***
+## Selected Projects
 
-### Here's What I Actually Do
+### 🛒 Ecommerce Streaming Data Platform  
+**Real-time, event-driven architecture**
 
-**For Companies:**
+- Built a streaming data platform using **Kafka**
+- Event-driven ingestion and processing
+- Routing concepts inspired by **AWS Route 53**
+- Observability with **Grafana**
+- Focus on data flow, reliability, and monitoring  
 
-* Build scalable AWS data pipelines that handle millions of records without breaking
-* Deploy ML models to production (not just notebooks that collect dust)
-* Automate the manual processes that waste your team's time
-* Reduce your cloud costs by 30-50% (yeah, that's real)
-* Train teams on modern data engineering so they're not dependent on one person
+**Tech:** Python, Kafka, Event-driven architecture, Grafana  
+→ Repository: `ecommerce-streaming-data-platform`
 
-**For People Like You:**
+---
 
-* Help career-changers transition into data science the right way
-* Share production-tested code templates (no fluff)
-* Mentor through the tough moments (imposter syndrome is real)
-* Break down the "why" behind architecture decisions—not just the "what"
+### 🗄️ Data Lake Analytics Pipeline  
+**Batch ingestion and analytics**
 
-***
+- End-to-end data ingestion and processing pipeline
+- Structured data lake layout
+- Designed for analytics and reporting use cases
+- Emphasis on automation and data quality checks  
 
-### The Work I'm Most Proud Of
+**Tech:** Python, Data pipelines  
+→ Repository: `datalake-analytics-pipeline`
 
-**$2M Annual Savings** | Customer Churn Prediction System A telecom company was losing 15% of customers monthly. We built an ML pipeline that identified at-risk customers *before* they left. 92% accuracy. 24% churn reduction. Real-time predictions in <200ms. → [See the code](https://github.com/tuni56/customer-churn-prediction)
+---
 
-**70% Faster Processing** | Data Lake Analytics Pipeline\
-Large transaction datasets were taking forever to process. We automated the entire ETL pipeline with data quality checks built in. Went from days to hours. Zero maintenance after launch. → [See the code](https://github.com/tuni56/datalake-analytics-pipeline)
+### 📉 Customer Churn Prediction  
+**Machine learning on AWS**
 
-**50% Faster Decisions** | Real-time Sales Analytics\
-Sales team was working off yesterday's data. We built an automated dashboard with drill-down capabilities. Now they see performance in real-time. Decision-making got dramatically faster. → [See the code](https://github.com/tuni56/sales-analytics-dashboard)
+- Customer churn prediction workflow
+- Training and evaluation using **AWS SageMaker**
+- End-to-end ML lifecycle: data prep → training → evaluation
+- Focus on deployable, reproducible ML workflows  
 
-**30% Cost Reduction** | Demand Forecasting System Inventory levels were all over the place—too much stock, stockouts, money wasted. Built an automated forecasting pipeline that retrains itself. Now they predict demand accurately. → [See the code](https://github.com/tuni56/demand-forecasting-system)
+**Tech:** Python, AWS SageMaker, Machine Learning  
+→ Repository: `customer-churn-prediction`
 
-**60% Faster Incident Resolution** | Log Analytics Platform Operations team was drowning in logs. Built real-time processing with intelligent alerting. Issues get caught and fixed before they become disasters. → [See the code](https://github.com/tuni56/log-analytics-platform)
+---
 
-**80% Faster Deployments** | MLOps Pipeline for NLP ML models were being deployed manually—slow, error-prone, risky. Built an automated pipeline with continuous training. Models now deploy in a fraction of the time with better accuracy. → [See the code](https://github.com/tuni56/mlops-sentiment-analysis)
+### 📦 Demand Forecasting System  
+**Predictive analytics for inventory management**
 
-***
+- Time-series forecasting for demand prediction
+- Feature engineering and model training pipeline
+- Designed to support business decision-making  
 
-### What I'm Building Right Now
+**Tech:** Python, Forecasting models  
+→ Repository: `demand-forecasting-system`
 
-Just got back from AWS reinvent and honestly? The energy around what's possible with AI and data is wild. I'm channeling everything I learned into what I'm shipping next.
+---
 
-**🌐 AWSWomenincloud** — Co-leading a community of women from different backgrounds united by AWS learning in Buenos Aires. We're proving that tech is for everyone. If you're in Buenos Aires or want to connect with the community, let's talk.
+### 📻 Radio Station Microservices Platform  
+**Distributed systems & event-driven backend (AWS-style simulation)**
 
-**📺 AWS Mondays** — YouTube series dropping soon. Real AWS tutorials that actually solve problems. Not 45-minute videos on basic concepts. This is production-ready. Fresh ideas from reinvent already in the pipeline.
+- Microservices-based backend system for a radio station
+- Event-driven communication using **Kafka**
+- Service coordination with **ZooKeeper**
+- Built with **Java, Spring Boot, and Spring Cloud**
+- Architecture designed to **simulate AWS-managed services locally** for learning and cost efficiency
 
-**🎧 Data Conversations Podcast** — Deep dives with real data professionals about what works and what doesn't. The messy reality, not the polished version.
+**Focus:** Distributed systems design, messaging, service discovery  
+**Tech:** Java, Spring Boot, Spring Cloud, Kafka, ZooKeeper  
 
-**📰 Two LinkedIn Newsletters:**
+---
 
-* *Data: a game changer* — Weekly insights on data science trends and career moves
-* *Pulso pyme* — Business analytics for SMEs (Spanish-speaking audience)
+## Tech Stack
 
-**🔧 Free Resources** — Career roadmap for transitioning into data science, cost optimization templates, salary negotiation scripts, production-ready code templates (actually launching these soon)
+### Data Engineering
+- Python, SQL
+- Kafka
+- Batch & streaming pipelines
+- Data modeling and data flow design
 
-***
+### Cloud & Infrastructure
+- AWS (S3, Lambda, DynamoDB, SageMaker, API Gateway)
+- Infrastructure as Code: Terraform (hands-on learning and application)
+- IAM & least-privilege design
 
-### My Tech Stack (What Actually Matters)
+### Machine Learning
+- scikit-learn
+- Time-series forecasting
+- ML pipelines and experimentation
+- SageMaker workflows
 
-**Cloud & MLOps** — AWS (SageMaker, S3, Lambda, Glue, Redshift, QuickSight, Step Functions), Docker, CI/CD, Model monitoring, A/B testing
+### Backend & Systems
+- Java
+- Spring Boot, Spring Cloud
+- Microservices architecture
+- Event-driven systems
 
-**Data Science & ML** — Python, SQL, PySpark, scikit-learn, TensorFlow, PyTorch, XGBoost, BERT. Specialties: time series forecasting, NLP, computer vision
+---
 
-**Data Engineering** — Apache Spark, Airflow, dbt, AWS Glue, PostgreSQL, Redshift, DynamoDB, CloudWatch, Elasticsearch
+## What I’m Focusing On Now
+- Designing **AWS-native architectures**
+- Infrastructure as Code with **Terraform**
+- Improving observability and system design
+- Preparing for **Data Engineer / Data Platform Engineer** roles
 
-**Certifications & Recognition** — AWS Solutions Architect Professional, AWS ML Specialty, AWS All Builders Welcome Program recipient, just back from AWS reinvent 2025
+---
 
-***
+## Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/rociobaigorria/
+- 📧 Email: rociomnbaigorria@gmail.com
+- 🌍 Location: Argentina (GMT-3) — open to remote opportunities
 
-### If You're Considering Reaching Out
+---
 
-**You should talk to me if:**
+> **“Making data accessible to people who actually need to use it.”**
 
-* You're thinking about making a career pivot into data science and want to avoid my mistakes
-* Your company needs to build a scalable data strategy but doesn't know where to start
-* You've got messy data and no time to figure it out
-* You're building a data team and need someone who actually knows how to do this
+---
 
-**Let's connect:**
-
-* 📧 Email: <rociomnbaigorria@gmail.com>
-* 📅 [Book a 30-min strategy call](link-here)
-* 💼 Follow me on LinkedIn for daily insights
-* 📺 Subscribe to AWS Mondays (launching soon)
-* 🎧 Subscribe to Data Conversations Podcast
-* 🌐 Join AWSWomenincloud — Whether you're in Buenos Aires or anywhere else, if you're a woman interested in AWS learning, let's build this together
-
-I'm in Argentina (GMT-3) but available for global remote work. Seriously. Let's talk.
-
-***
-
-### One More Thing
-
-"Making data accessible to people who actually care about using it."
-
-I don't measure success by YouTube subscribers or Twitter followers. I measure it by the number of people who made a career move they thought was impossible, or the companies that finally have data infrastructure that doesn't make them want to cry.
-
-That's what I'm building toward.
-
-**#DataScience #AWSCloud #MachineLearning #CareerChange #DataEngineering #CloudFirst #ProductionReady #WomenInTech**
-
-
-
+## Pinned Repositories
+- `ecommerce-streaming-data-platform`
+- `datalake-analytics-pipeline`
+- `customer-churn-prediction`
+- `demand-forecasting-system`
