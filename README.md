@@ -9,14 +9,6 @@ I come from an engineering background and transitioned into data engineering by 
 My focus is simple: **make data reliable, usable, and ready for decisions**.
 ---
 
-## Data Flow in Motion
-
-This is how I think about systems: flow, pressure, failures, recovery.
-
-![GitHub Space Invaders](game.gif)
-
----
-
 ## What I Work On
 
 I design and implement systems that:
@@ -157,3 +149,12 @@ Location: Argentina (GMT-3) – open to remote roles
 ---
 
 > Making data accessible to people who actually need to use it.
+
+
+## Data Flow in Motion
+
+This is how I think about systems: flow, pressure, failures, recovery.
+
+![GitHub Space Invaders](game.gif)
+
+---
