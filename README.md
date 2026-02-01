@@ -1,12 +1,12 @@
 # Hi, I’m Rocío
 
-I’m a **Data Engineer** building **reliable data systems** with a strong backend and cloud foundation.
+I’m a **Data Engineer** who builds data systems that actually run in production.
 
-I didn’t come from notebooks and toy datasets.  
-I came from engineering, production constraints, and systems that had to work with **limited time, limited budget, and real users waiting**.
+I work with **streaming data, batch pipelines, and ML workflows**, designing systems that can handle failures, limited budgets, and real operational constraints.
 
-I focus on **data pipelines, streaming systems, and ML-enabled analytics** that are understandable, scalable, and maintainable.
+I come from an engineering background and transitioned into data engineering by building **end-to-end systems**: ingestion, processing, observability, and deployment.
 
+My focus is simple: **make data reliable, usable, and ready for decisions**.
 ---
 
 ## Data Flow in Motion
