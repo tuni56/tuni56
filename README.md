@@ -1,139 +1,157 @@
-# Hi, I’m Rocío 👋
+# Hi, I’m Rocío
 
-I’m a **Data Engineer** with experience building **data pipelines, streaming systems, and ML-driven analytics** using **Python and AWS**.
+I’m a **Data Engineer** building **reliable data systems** with a strong backend and cloud foundation.
 
-I come from a traditional engineering background and transitioned into data engineering by building real systems end to end — not just notebooks or tutorials. I focus on **making data usable, scalable, and reliable**, especially in environments where resources, time, or cloud budgets are limited.
+I didn’t come from notebooks and toy datasets.  
+I came from engineering, production constraints, and systems that had to work with **limited time, limited budget, and real users waiting**.
+
+I focus on **data pipelines, streaming systems, and ML-enabled analytics** that are understandable, scalable, and maintainable.
+
+---
+
+## Data Flow in Motion
+
+This is how I think about systems: flow, pressure, failures, recovery.
+
+![GitHub Space Invaders](game.gif)
 
 ---
 
 ## What I Work On
 
 I design and implement systems that:
+
 - Ingest and process data reliably
 - Support analytics and machine learning use cases
-- Follow cloud-native and event-driven architecture principles
-- Are understandable and maintainable by teams
+- Follow cloud-native and event-driven principles
+- Can be operated and understood by real teams
 
-My work sits at the intersection of **data engineering, backend systems, and applied machine learning**.
+My work lives at the intersection of **data engineering, backend systems, and applied machine learning**.
 
 ---
 
 ## Selected Projects
 
-### 🛒 Ecommerce Streaming Data Platform  
+### Ecommerce Streaming Data Platform  
 **Real-time, event-driven architecture**
 
-- Built a streaming data platform using **Kafka**
-- Event-driven ingestion and processing
+I’m standing in front of a stream of events coming from an ecommerce system.  
+Orders arrive. Payments fire. Inventory changes.
+
+I built a platform that can **listen, route, process, and observe everything in motion**.
+
+- Streaming ingestion using **Kafka**
+- Event-driven processing
 - Routing concepts inspired by **AWS Route 53**
 - Observability with **Grafana**
-- Focus on data flow, reliability, and monitoring  
+- Strong focus on reliability and monitoring
 
 **Tech:** Python, Kafka, Event-driven architecture, Grafana  
-→ Repository: `ecommerce-streaming-data-platform`
+Repository: `ecommerce-streaming-data-platform`
 
 ---
 
-### 🗄️ Data Lake Analytics Pipeline  
+### Data Lake Analytics Pipeline  
 **Batch ingestion and analytics**
 
-- End-to-end data ingestion and processing pipeline
-- Structured data lake layout
-- Designed for analytics and reporting use cases
-- Emphasis on automation and data quality checks  
+I’m organizing raw data as it arrives, structuring it so analytics teams don’t fight the data.
 
-**Tech:** Python, Data pipelines  
-→ Repository: `datalake-analytics-pipeline`
+- End-to-end ingestion and processing
+- Structured data lake layout
+- Designed for analytics and reporting
+- Automation and data quality checks
+
+**Tech:** Python, Data Pipelines  
+Repository: `datalake-analytics-pipeline`
 
 ---
 
-### 📉 Customer Churn Prediction  
+### Customer Churn Prediction  
 **Machine learning on AWS**
 
-- Customer churn prediction workflow
-- Training and evaluation using **AWS SageMaker**
-- End-to-end ML lifecycle: data prep → training → evaluation
-- Focus on deployable, reproducible ML workflows  
+I’m preparing data, training models, evaluating results, and making the workflow reproducible.
+
+- End-to-end ML lifecycle
+- Built on **AWS SageMaker**
+- Focus on deployable ML workflows
 
 **Tech:** Python, AWS SageMaker, Machine Learning  
-→ Repository: `customer-churn-prediction`
+Repository: `customer-churn-prediction`
 
 ---
 
-### 📦 Demand Forecasting System  
-**Predictive analytics for inventory management**
+### Demand Forecasting System  
+**Predictive analytics for inventory decisions**
 
-- Time-series forecasting for demand prediction
-- Feature engineering and model training pipeline
-- Designed to support business decision-making  
+I’m forecasting demand to support business decisions before problems happen.
 
-**Tech:** Python, Forecasting models  
-→ Repository: `demand-forecasting-system`
+- Time-series forecasting
+- Feature engineering
+- Model training pipelines
+
+**Tech:** Python, Forecasting Models  
+Repository: `demand-forecasting-system`
 
 ---
 
-### 📻 Radio Station Microservices Platform  
-**Distributed systems & event-driven backend (AWS-style simulation)**
+### Radio Station Microservices Platform  
+**Distributed systems & event-driven backend**
 
-- Microservices-based backend system for a radio station
+I’m coordinating services that need to talk, fail, recover, and stay consistent.
+
+- Microservices architecture
 - Event-driven communication using **Kafka**
-- Service coordination with **ZooKeeper**
-- Built with **Java, Spring Boot, and Spring Cloud**
-- Architecture designed to **simulate AWS-managed services locally** for learning and cost efficiency
+- Coordination with **ZooKeeper**
+- Built with **Java, Spring Boot, Spring Cloud**
+- Designed to simulate AWS-managed services locally
 
-**Focus:** Distributed systems design, messaging, service discovery  
-**Tech:** Java, Spring Boot, Spring Cloud, Kafka, ZooKeeper  
+**Focus:** Distributed systems, messaging, service discovery  
+**Tech:** Java, Spring Boot, Spring Cloud, Kafka, ZooKeeper
 
 ---
 
 ## Tech Stack
 
-### Data Engineering
+**Data Engineering**
 - Python, SQL
 - Kafka
-- Batch & streaming pipelines
+- Batch and streaming pipelines
 - Data modeling and data flow design
 
-### Cloud & Infrastructure
+**Cloud & Infrastructure**
 - AWS (S3, Lambda, DynamoDB, SageMaker, API Gateway)
-- Infrastructure as Code: Terraform (hands-on learning and application)
-- IAM & least-privilege design
+- Infrastructure as Code: Terraform
+- IAM and least-privilege design
 
-### Machine Learning
+**Machine Learning**
 - scikit-learn
 - Time-series forecasting
-- ML pipelines and experimentation
+- ML pipelines
 - SageMaker workflows
 
-### Backend & Systems
+**Backend & Systems**
 - Java
 - Spring Boot, Spring Cloud
-- Microservices architecture
-- Event-driven systems
+- Microservices
+- Event-driven architectures
 
 ---
 
 ## What I’m Focusing On Now
-- Designing **AWS-native architectures**
-- Infrastructure as Code with **Terraform**
-- Improving observability and system design
-- Preparing for **Data Engineer / Data Platform Engineer** roles
+
+- AWS-native data architectures
+- Infrastructure as Code with Terraform
+- Observability and system design
+- Data Engineer / Data Platform Engineer roles
 
 ---
 
 ## Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/rociobaigorria/
-- 📧 Email: rociomnbaigorria@gmail.com
-- 🌍 Location: Argentina (GMT-3) — open to remote opportunities
+
+LinkedIn: https://www.linkedin.com/in/rociobaigorria/  
+Email: rociomnbaigorria@gmail.com  
+Location: Argentina (GMT-3) – open to remote roles
 
 ---
 
-> **“Making data accessible to people who actually need to use it.”**
-
----
-
-## Pinned Repositories
-- `ecommerce-streaming-data-platform`
-- `datalake-analytics-pipeline`
-- `customer-churn-prediction`
-- `demand-forecasting-system`
+> Making data accessible to people who actually need to use it.
