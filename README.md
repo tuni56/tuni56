@@ -64,7 +64,7 @@ I’m organizing raw data as it arrives, structuring it so analytics teams don�
 - Automation and data quality checks
 
 **Tech:** Python, Data Pipelines  
-Repository: `datalake-analytics-pipeline`
+Repository: https://github.com/tuni56/datalake-analytics-pipeline
 
 ---
 
@@ -78,7 +78,7 @@ I’m preparing data, training models, evaluating results, and making the workfl
 - Focus on deployable ML workflows
 
 **Tech:** Python, AWS SageMaker, Machine Learning  
-Repository: `customer-churn-prediction`
+Repository: https://github.com/tuni56/churn-prediction-aws-streamlit
 
 ---
 
@@ -92,7 +92,7 @@ I’m forecasting demand to support business decisions before problems happen.
 - Model training pipelines
 
 **Tech:** Python, Forecasting Models  
-Repository: `demand-forecasting-system`
+Repository: https://github.com/tuni56/demand-forecasting-system
 
 ---
 
