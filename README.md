@@ -35,19 +35,21 @@ My work lives at the intersection of **data engineering, backend systems, and ap
 ### Ecommerce Streaming Data Platform  
 **Real-time, event-driven architecture**
 
-I’m standing in front of a stream of events coming from an ecommerce system.  
-Orders arrive. Payments fire. Inventory changes.
+I’m watching events arrive in real time: orders placed, payments confirmed, inventory updated.
 
-I built a platform that can **listen, route, process, and observe everything in motion**.
+Data is flowing fast, and if something breaks, the business feels it immediately.
 
-- Streaming ingestion using **Kafka**
-- Event-driven processing
-- Routing concepts inspired by **AWS Route 53**
-- Observability with **Grafana**
-- Strong focus on reliability and monitoring
+I built a streaming platform that listens to those events, routes them, processes them, and exposes what’s happening through clear observability.
+
+- Real-time ingestion using Kafka
+- Event-driven processing and routing
+- Routing concepts inspired by AWS Route 53
+- Observability with Grafana
+- Designed for reliability and failure visibility
 
 **Tech:** Python, Kafka, Event-driven architecture, Grafana  
-Repository: `ecommerce-streaming-data-platform`
+Repository: https://github.com/tuni56/ecommerce-streaming-data-platform 
+
 
 ---
 
