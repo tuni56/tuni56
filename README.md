@@ -1,160 +1,184 @@
-# Hi, I’m Rocío
+# Rocío Baigorria  
+**Data Engineer | AWS Data Platforms | Streaming & Batch Architectures**
 
-I’m a **Data Engineer** who builds data systems that actually run in production.
+I design and operate **AWS-native data platforms** that support analytics, real-time processing, and machine learning under real operational constraints.
 
-I work with **streaming data, batch pipelines, and ML workflows**, designing systems that can handle failures, limited budgets, and real operational constraints.
+My work focuses on building systems that are **reliable, observable, and cost-aware** — designed not as demos, but as platforms that teams could realistically run in production.
 
-I come from an engineering background and transitioned into data engineering by building **end-to-end systems**: ingestion, processing, observability, and deployment.
+I transitioned into data engineering from an engineering background by building complete end-to-end systems: ingestion, processing, storage, observability, and infrastructure automation.
 
-My focus is simple: **make data reliable, usable, and ready for decisions**.
+**Core principle:** data systems must survive failures, scale predictably, and remain understandable by the teams operating them.
+
 ---
 
-## What I Work On
+## What I Build
 
-I design and implement systems that:
+I design systems that:
 
-- Ingest and process data reliably
-- Support analytics and machine learning use cases
-- Follow cloud-native and event-driven principles
-- Can be operated and understood by real teams
+- Ingest and process data reliably (batch and streaming)
+- Support analytics and ML workloads
+- Follow cloud-native and event-driven architecture principles
+- Optimize cost, scalability, and operational visibility
+- Are deployable and maintainable by real teams
 
-My work lives at the intersection of **data engineering, backend systems, and applied machine learning**.
+My work sits at the intersection of **Data Engineering, Distributed Systems, and AWS Cloud Architecture**.
 
 ---
 
 ## Selected Projects
 
-### Ecommerce Streaming Data Platform  
-**Real-time, event-driven architecture**
+### Ecommerce Data Warehouse — AWS Redshift Serverless
+**Production-style analytics warehouse with incremental pipelines**
 
-I’m watching events arrive in real time: orders placed, payments confirmed, inventory updated.
+Designed a modern ecommerce warehouse handling evolving datasets and late-arriving events using AWS-native architecture.
 
-Data is flowing fast, and if something breaks, the business feels it immediately.
+**Key Decisions**
+- Star schema modeling for analytical performance
+- Incremental ingestion to reduce compute cost
+- Late-arriving data handling strategy
+- Infrastructure defined with Terraform
 
-I built a streaming platform that listens to those events, routes them, processes them, and exposes what’s happening through clear observability.
+**Architecture Highlights**
+- Redshift Serverless
+- Incremental pipelines
+- Data modeling (facts & dimensions)
+- IaC and reproducible environments
 
-- Real-time ingestion using Kafka
-- Event-driven processing and routing
-- Routing concepts inspired by AWS Route 53
-- Observability with Grafana
-- Designed for reliability and failure visibility
-
-**Tech:** Python, Kafka, Event-driven architecture, Grafana  
-Repository: https://github.com/tuni56/ecommerce-streaming-data-platform 
-
-
----
-
-### Data Lake Analytics Pipeline  
-**Batch ingestion and analytics**
-
-I’m organizing raw data as it arrives, structuring it so analytics teams don’t fight the data.
-
-- End-to-end ingestion and processing
-- Structured data lake layout
-- Designed for analytics and reporting
-- Automation and data quality checks
-
-**Tech:** Python, Data Pipelines  
-Repository: https://github.com/tuni56/datalake-analytics-pipeline
+**Tech:** AWS Redshift, S3, Terraform, SQL, Data Modeling  
+Repository: https://github.com/tuni56/ecommerce-data-warehouse-redshift
 
 ---
 
-### Customer Churn Prediction  
-**Machine learning on AWS**
+### Serverless Data Lake Platform
+**AWS-native data lake designed for analytics workloads**
 
-I’m preparing data, training models, evaluating results, and making the workflow reproducible.
+Built a cost-efficient serverless data lake separating raw and curated layers with automated metadata discovery.
 
-- End-to-end ML lifecycle
-- Built on **AWS SageMaker**
-- Focus on deployable ML workflows
+**Key Decisions**
+- Serverless-first architecture to eliminate idle compute
+- Columnar storage (Parquet) for query efficiency
+- Automated schema discovery using Glue Crawlers
 
-**Tech:** Python, AWS SageMaker, Machine Learning  
-Repository: https://github.com/tuni56/churn-prediction-aws-streamlit
+**Architecture Highlights**
+- S3 data lake layers
+- AWS Glue catalog & ETL
+- Athena querying
+- Infrastructure automation
 
----
-
-### Demand Forecasting System  
-**Predictive analytics for inventory decisions**
-
-I’m forecasting demand to support business decisions before problems happen.
-
-- Time-series forecasting
-- Feature engineering
-- Model training pipelines
-
-**Tech:** Python, Forecasting Models  
-Repository: https://github.com/tuni56/demand-forecasting-system
+**Tech:** AWS S3, Glue, Athena, CloudFormation, Python  
+Repository: https://github.com/tuni56/serverless-aws-data-lake-with-kiro
 
 ---
 
-### Radio Station Microservices Platform  
-**Distributed systems & event-driven backend**
+### Real-Time Event-Driven Data Pipeline
+**Streaming platform for high-velocity event processing**
 
-I’m coordinating services that need to talk, fail, recover, and stay consistent.
+Designed a real-time ingestion and processing system capable of handling burst traffic while maintaining observability and reliability.
 
-- Microservices architecture
-- Event-driven communication using **Kafka**
-- Coordination with **ZooKeeper**
-- Built with **Java, Spring Boot, Spring Cloud**
-- Designed to simulate AWS-managed services locally
+**Key Decisions**
+- Event-driven decoupling using Kafka
+- Schema evolution with Schema Registry
+- Monitoring-first design
 
-**Focus:** Distributed systems, messaging, service discovery  
-**Tech:** Java, Spring Boot, Spring Cloud, Kafka, ZooKeeper
-Repository: https://github.com/tuni56/radio-station-microservices
+**Architecture Highlights**
+- Streaming ingestion
+- Event routing and processing
+- Production-style monitoring dashboards
+
+**Tech:** Kafka, Python, Redis, Grafana, Terraform  
+Repository: https://github.com/tuni56/real-time-event-driven-data-pipeline
 
 ---
 
-## Tech Stack
+### IoT Data Architecture on AWS
+**Long-term scalable ingestion architecture for sensor data**
 
-**Data Engineering**
+Designed a cost-optimized architecture to ingest and query multi-year IoT datasets.
+
+**Key Decisions**
+- Storage lifecycle optimization
+- Serverless ingestion patterns
+- Queryable historical storage
+
+**Focus Areas**
+- Scalability
+- Cost optimization
+- Long-term data retention strategy
+
+**Tech:** AWS Serverless, Data Lake Architecture, Kafka  
+Repository: https://github.com/tuni56/iot-data-architecture-aws
+
+---
+
+### AWS Serverless Cost Dashboard
+**Operational visibility for cloud spending**
+
+Built an automated dashboard to monitor and analyze AWS costs using event-driven processing.
+
+**Highlights**
+- Automated cost ingestion
+- Serverless processing pipeline
+- Operational monitoring mindset
+
+**Tech:** AWS Lambda, S3, CloudWatch, SNS, Python  
+Repository: https://github.com/tuni56/AWS-Cost-Dashboard-Serverless-
+
+---
+
+## Technical Stack
+
+### Data Engineering
 - Python, SQL
-- Kafka
-- Batch and streaming pipelines
-- Data modeling and data flow design
+- Batch & Streaming Pipelines
+- Data Modeling (Star Schema)
+- Event-Driven Architectures
+- Kafka Ecosystem
 
-**Cloud & Infrastructure**
-- AWS (S3, Lambda, DynamoDB, SageMaker, API Gateway)
-- Infrastructure as Code: Terraform
-- IAM and least-privilege design
+### Cloud & Infrastructure
+- AWS (S3, Lambda, DynamoDB, Redshift, Glue, Athena, SageMaker)
+- Infrastructure as Code (Terraform, CloudFormation)
+- IAM & Least-Privilege Design
+- Serverless Architectures
 
-**Machine Learning**
-- scikit-learn
-- Time-series forecasting
-- ML pipelines
-- SageMaker workflows
+### Observability & Operations
+- Monitoring & Metrics (Grafana, CloudWatch)
+- Failure handling & retries
+- Cost-aware architecture decisions
 
-**Backend & Systems**
+### Distributed Systems Background
 - Java
-- Spring Boot, Spring Cloud
-- Microservices
-- Event-driven architectures
+- Spring Boot / Spring Cloud
+- Microservices & Messaging Systems
 
 ---
 
-## What I’m Focusing On Now
+## Current Focus
 
-- AWS-native data architectures
-- Infrastructure as Code with Terraform
-- Observability and system design
-- Data Engineer / Data Platform Engineer roles
-
----
-
-## Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/rociobaigorria/  
-Email: rociomnbaigorria@gmail.com  
-Location: Argentina (GMT-3) – open to remote roles
+- AWS-native data platform design
+- Infrastructure as Code maturity
+- Observability-driven architectures
+- Preparing for Data Engineer / Data Platform Engineer roles
 
 ---
 
-> Making data accessible to people who actually need to use it.
+## Location & Availability
 
+Argentina (GMT-3) — Open to Remote Roles and Relocation
 
-## Data Flow in Motion
+US Citizen open to relocating to the United States.  
+Relocation support required during transition.
 
-This is how I think about systems: flow, pressure, failures, recovery.
+- LinkedIn: https://www.linkedin.com/in/rociobaigorria/
+- Email: rociomnbaigorria@gmail.com
+
+---
+
+## Engineering Philosophy
+
+Data systems are not pipelines — they are **living systems**.
+
+They must handle pressure, failures, scale changes, and human operators.  
+My goal is to design platforms where data flows reliably and decisions can happen with confidence.
 
 ![GitHub Space Invaders](game.gif)
 
