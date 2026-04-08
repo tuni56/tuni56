@@ -1,272 +1,209 @@
 # Rocío Baigorria
 
+# Rocío Baigorria  
 **Data Engineer | SQL • Python • Kafka • AWS Data Platforms**
 
-I design and operate **AWS-native data platforms** that support **analytics, real-time processing, and machine learning workloads**. My work focuses on building **reliable, observable, and cost-aware data systems** that teams can realistically operate in production environments.
+I design and build AWS-based data platforms that process large-scale datasets using batch and real-time pipelines, improving data availability, reliability, and cost efficiency.
 
-I specialize in building **end-to-end data pipelines**: from ingestion and event streaming to transformation, storage, and analytical datasets.
-
-My systems are designed using **cloud-native architecture, event-driven systems, and distributed data processing principles**.
+I specialize in end-to-end data engineering: ingestion, streaming, transformation, storage, and analytical data modeling. My focus is on building systems that work under real production constraints — not just isolated pipelines.
 
 **US Citizen — Open to Remote Roles and Relocation to the United States**
 
 ---
 
-# About Me
+## About Me
 
-I transitioned into **Data Engineering** from an engineering background by building complete production-style systems that include:
+I build production-style data platforms that replicate real-world data engineering challenges, including multi-source ingestion, streaming pipelines, and analytical data modeling.
 
-- Data ingestion pipelines
-- Batch and streaming processing
-- Analytical data modeling
-- Observability and monitoring
-- Infrastructure automation
+My work emphasizes:
+- Systems that handle failure gracefully  
+- Predictable scalability under growing data volumes  
+- Operational simplicity for engineering teams  
 
-My focus is on building **data systems that are resilient, scalable, and understandable for the teams operating them**.
-
-Core principle:
-
-> Data platforms must survive failures, scale predictably, and remain operable by real engineering teams.
+**Core principle:**  
+Data platforms must be reliable under failure, scalable under growth, and simple enough for teams to operate in production.
 
 ---
 
-# Core Data Engineering Skills
+## Core Skills
 
-## Data Engineering
+### Data Engineering
+- SQL for analytics and large-scale data transformation  
+- Python for data pipelines and automation  
+- ETL / ELT pipeline design  
+- Batch and streaming data processing  
+- Data modeling (Star Schema, Fact & Dimension tables)  
+- Incremental data processing  
 
-- **SQL** for analytics and data transformation  
-- **Python** for data pipelines and automation  
-- **Batch and Streaming Pipelines**  
-- **Event-Driven Data Architectures**  
-- **Data Modeling (Star Schema, Fact & Dimension tables)**  
-- **Incremental Data Processing**  
-- **ETL / ELT Pipeline Design**
+### Streaming & Distributed Systems
+- Kafka event streaming  
+- Event-driven architectures  
+- Schema evolution and event versioning  
+- Reliable ingestion and decoupled systems  
 
-## Distributed Systems & Streaming
+### AWS Data Platforms
+- S3 (data lake architecture)  
+- Glue (ETL + catalog)  
+- Athena (serverless analytics)  
+- Redshift (data warehouse)  
+- Lambda, DynamoDB  
 
-- **Kafka Event Streaming**
-- Schema evolution and event versioning
-- Reliable message ingestion patterns
-- Event-driven decoupled architectures
-
-## Cloud Data Platforms
-
-- **AWS Data Architecture**
-- Data Lakes and Data Warehouses
-- Serverless data pipelines
-- Data infrastructure automation
-
-## Infrastructure & DevOps
-
-- **Terraform (Infrastructure as Code)**
-- **CloudFormation**
-- IAM least-privilege architecture
-- Reproducible infrastructure environments
-
-## Observability & Reliability
-
-- Monitoring and metrics
-- Pipeline reliability strategies
-- Retry and failure handling
-- Cost-aware architecture decisions
-
-Tools:
-Python
-SQL
-Kafka
-AWS (S3, Lambda, Redshift, Glue, Athena, DynamoDB)
-Terraform
-CloudFormation
-Grafana
-CloudWatch
-Redis
-
+### Infrastructure & Reliability
+- Terraform (Infrastructure as Code)  
+- CloudFormation  
+- IAM (least-privilege design)  
+- Monitoring and observability (CloudWatch, Grafana)  
+- Failure handling and retry strategies  
+- Cost-aware architecture decisions  
 
 ---
 
-# Selected Data Engineering Projects
+## Selected Data Engineering Projects
 
-## Ecommerce Data Warehouse  
-### AWS Redshift Serverless — Analytical Data Platform
+### Ecommerce Data Warehouse  
+**AWS Redshift Serverless — Analytical Data Platform**
 
-Production-style **data warehouse architecture** designed to support analytics workloads and evolving datasets.
+Designed an analytical data warehouse to support business reporting and handle evolving transactional data.
 
-The system handles **late-arriving events**, incremental data ingestion, and analytical query optimization using **star schema modeling**.
+This system addresses challenges such as late-arriving data, incremental ingestion, and query performance optimization for analytics workloads.
 
-### Key Architecture Decisions
+**Key Decisions**
+- Star schema modeling for analytical performance  
+- Incremental ingestion pipelines to reduce compute costs  
+- Strategy for handling late-arriving transactional data  
+- Infrastructure fully defined using Terraform  
 
-- Star schema modeling for analytical performance
-- Incremental ingestion pipelines to minimize compute costs
-- Strategy for late-arriving transactional data
-- Infrastructure defined using Terraform
+**Architecture Highlights**
+- AWS Redshift Serverless  
+- Incremental batch pipelines  
+- Fact and dimension modeling  
+- Reproducible infrastructure  
 
-### Architecture Highlights
+**Tech Stack:**  
+AWS Redshift • S3 • Terraform • SQL  
 
-- AWS **Redshift Serverless**
-- Incremental batch pipelines
-- Fact and dimension table modeling
-- Reproducible infrastructure with IaC
-
-### Tech Stack
-
-- AWS Redshift
-- S3
-- Terraform
-- SQL
-- Data Modeling
-
-Repository  
+Repository:  
 https://github.com/tuni56/ecommerce-data-warehouse-redshift
 
 ---
 
-## Serverless Data Lake Platform  
-### AWS-native Analytics Data Lake
+### Serverless Data Lake Platform  
+**AWS-native Analytics Data Lake**
 
-Designed a **serverless data lake architecture** separating **raw and curated datasets** for scalable analytics workloads.
+Designed a serverless data lake architecture to support scalable analytics across raw and curated datasets.
 
-The system uses **columnar storage and automated metadata discovery** to enable efficient querying.
+The system enables efficient querying using columnar storage and automated metadata discovery.
 
-### Key Architecture Decisions
+**Key Decisions**
+- Serverless-first architecture to eliminate idle compute  
+- Columnar storage (Parquet) for performance optimization  
+- Automated schema discovery with Glue Crawlers  
+- Metadata catalog for data discoverability  
 
-- Serverless-first architecture to eliminate idle compute
-- Columnar data storage (Parquet)
-- Automated schema discovery with Glue Crawlers
-- Metadata catalog for discoverability
+**Architecture Highlights**
+- Multi-layer S3 data lake (raw → processed → curated)  
+- AWS Glue catalog and ETL  
+- Athena for querying  
+- Infrastructure automation  
 
-### Architecture Highlights
+**Tech Stack:**  
+S3 • Glue • Athena • Python • CloudFormation  
 
-- Multi-layer **S3 data lake**
-- AWS Glue catalog and ETL
-- Athena for serverless querying
-- Infrastructure automation
-
-### Tech Stack
-
-- AWS S3
-- AWS Glue
-- Athena
-- Python
-- CloudFormation
-
-Repository  
+Repository:  
 https://github.com/tuni56/serverless-aws-data-lake-with-kiro
 
 ---
 
-## Real-Time Event-Driven Data Pipeline  
-### Kafka Streaming Architecture
+### Real-Time Event-Driven Data Pipeline  
+**Kafka Streaming Architecture**
 
-Real-time **event ingestion and processing pipeline** designed to handle high-velocity event streams while maintaining reliability and observability.
+Built a real-time data pipeline to process high-velocity event streams with reliability and observability.
 
-The architecture demonstrates **event-driven data ingestion patterns used in distributed systems and modern data platforms**.
+Designed to reflect production-grade streaming systems with decoupled components and resilient processing.
 
-### Key Architecture Decisions
+**Key Decisions**
+- Event-driven architecture using Kafka  
+- Schema evolution with Schema Registry  
+- Monitoring-first system design  
+- Consumer reliability and fault tolerance strategies  
 
-- Event-driven decoupling using Kafka
-- Schema evolution using Schema Registry
-- Monitoring-first system design
-- Consumer reliability strategies
+**Architecture Highlights**
+- Streaming ingestion pipeline  
+- Event routing and processing  
+- Observability dashboards  
+- Resilient message handling  
 
-### Architecture Highlights
+**Tech Stack:**  
+Kafka • Python • Redis • Grafana • Terraform  
 
-- Streaming ingestion pipeline
-- Event routing and processing
-- Operational monitoring dashboards
-- Resilient message processing
-
-### Tech Stack
-
-- Kafka
-- Python
-- Redis
-- Grafana
-- Terraform
-
-Repository  
+Repository:  
 https://github.com/tuni56/real-time-event-driven-data-pipeline
 
 ---
 
-## IoT Data Architecture on AWS  
-### Scalable Sensor Data Ingestion
+### IoT Data Architecture on AWS  
+**Scalable Sensor Data Ingestion**
 
-Architecture designed to ingest and store **multi-year IoT datasets** while maintaining cost efficiency and long-term queryability.
+Designed a scalable architecture to ingest and store long-term IoT datasets while maintaining cost efficiency and queryability.
 
-### Key Architecture Decisions
+**Key Decisions**
+- Storage lifecycle optimization  
+- Serverless ingestion design  
+- Long-term data retention strategy  
+- Queryable historical datasets  
 
-- Storage lifecycle optimization
-- Serverless ingestion architecture
-- Queryable historical data storage
-- Long-term data retention strategy
+**Focus Areas**
+- Scalability  
+- Cost optimization  
+- Long-term data management  
 
-### Focus Areas
+**Tech Stack:**  
+AWS Serverless • Kafka • Data Lake Architecture  
 
-- Scalability
-- Cost optimization
-- Long-term data management
-
-### Tech Stack
-
-- AWS Serverless
-- Kafka
-- Data Lake Architecture
-
-Repository  
+Repository:  
 https://github.com/tuni56/iot-data-architecture-aws
 
 ---
 
-## AWS Serverless Cost Dashboard  
-### Operational Data Pipeline for Cloud Cost Monitoring
+### AWS Serverless Cost Dashboard  
+**Operational Data Pipeline for Cloud Cost Monitoring**
 
-Designed an automated **cost monitoring data pipeline** to ingest AWS Cost & Usage Reports and generate operational insights.
+Built an automated data pipeline to process AWS Cost & Usage Reports and generate near real-time operational insights.
 
-### Highlights
+**Highlights**
+- Automated cost data ingestion  
+- Event-driven processing  
+- Monitoring-first design  
+- Near real-time cost visibility  
 
-- Automated cost data ingestion
-- Event-driven processing architecture
-- Operational monitoring mindset
-- Near real-time cost visibility
+**Tech Stack:**  
+Lambda • S3 • CloudWatch • SNS • Python  
 
-### Tech Stack
-
-- AWS Lambda
-- S3
-- CloudWatch
-- SNS
-- Python
-
-Repository  
+Repository:  
 https://github.com/tuni56/AWS-Cost-Dashboard-Serverless-
 
 ---
 
-# Engineering Background
+## Engineering Background
 
-Before focusing fully on data engineering, I worked with **distributed backend systems**, including:
+Background in distributed backend systems:
+- Java  
+- Spring Boot  
+- Microservices  
+- Messaging systems  
 
-- **Java**
-- **Spring Boot**
-- **Microservices**
-- **Messaging architectures**
-
-This background influences how I design **data platforms that behave like production systems rather than isolated pipelines**.
-
----
-
-# Current Focus
-
-I am currently focused on:
-
-- **AWS-native Data Platform Architecture**
-- **Event-driven Data Systems**
-- **Infrastructure as Code for Data Platforms**
-- **Observability-driven pipeline design**
-
-Actively pursuing **Data Engineer / Data Platform Engineer roles** in teams building modern data infrastructure.
+This experience influences how I design data platforms as production systems, not isolated pipelines.
 
 ---
+
+## Current Focus
+
+- AWS-native data platform architecture  
+- Event-driven data systems  
+- Infrastructure as Code for data platforms  
+- Observability-driven pipeline design  
+
+Actively pursuing Data Engineer / Data Platform Engineer roles focused on modern data infrastructure.
 
 # Location
 
