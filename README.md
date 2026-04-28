@@ -84,7 +84,7 @@ Automated pipeline for AWS Cost & Usage Reports with near real-time visibility a
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/rociobaigorria/
-- Portfolio: [Add your portfolio URL]
+- Portfolio: https://dxaokewn60u4i.cloudfront.net/
 - Email: rociomnbaigorria@gmail.com
 
 
