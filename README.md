@@ -27,7 +27,7 @@ Co-Leader at AWS Girls Argentina User Group | Community Speaker across LATAM
 - Co-Leader, AWS Girls Argentina User Group
 - Speaker, Data Wizard (Peru)
 - Speaker, AWS User Group La Paz
-- Upcoming Speaker, ACMUD Bogotá (May 15)
+- Upcoming Speaker, ACMUD Bogotá and AWS user group Arequipa (May 15)
 
 I enjoy helping engineers grow through practical talks on cloud, data platforms, and real-world architecture.
 
