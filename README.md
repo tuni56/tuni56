@@ -1,245 +1,92 @@
 # Rocío Baigorria
 
-# Rocío Baigorria  
-**Data Engineer | SQL • Python • Kafka • AWS Data Platforms**
+**Data Engineer | AWS | Kafka | SQL | Python**
 
-I design and build AWS-based data platforms that process large-scale datasets using batch and real-time pipelines, improving data availability, reliability, and cost efficiency.
+I build scalable batch and real-time data platforms on AWS, focused on reliability, performance, and cost efficiency.
 
-I specialize in end-to-end data engineering: ingestion, streaming, transformation, storage, and analytical data modeling. My focus is on building systems that work under real production constraints — not just isolated pipelines.
+US Citizen | Open to Remote Roles and Relocation to the United States
 
-**US Citizen — Open to Remote Roles and Relocation to the United States**
-
----
-
-## About Me
-
-I build production-style data platforms that replicate real-world data engineering challenges, including multi-source ingestion, streaming pipelines, and analytical data modeling.
-
-My work emphasizes:
-- Systems that handle failure gracefully  
-- Predictable scalability under growing data volumes  
-- Operational simplicity for engineering teams  
-
-**Core principle:**  
-Data platforms must be reliable under failure, scalable under growth, and simple enough for teams to operate in production.
+Co-Leader at AWS Girls Argentina User Group | Community Speaker across LATAM
 
 ---
 
-## Core Skills
+## Core Expertise
 
-### Data Engineering
-- SQL for analytics and large-scale data transformation  
-- Python for data pipelines and automation  
-- ETL / ELT pipeline design  
-- Batch and streaming data processing  
-- Data modeling (Star Schema, Fact & Dimension tables)  
-- Incremental data processing  
-
-### Streaming & Distributed Systems
-- Kafka event streaming  
-- Event-driven architectures  
-- Schema evolution and event versioning  
-- Reliable ingestion and decoupled systems  
-
-### AWS Data Platforms
-- S3 (data lake architecture)  
-- Glue (ETL + catalog)  
-- Athena (serverless analytics)  
-- Redshift (data warehouse)  
-- Lambda, DynamoDB  
-
-### Infrastructure & Reliability
-- Terraform (Infrastructure as Code)  
-- CloudFormation  
-- IAM (least-privilege design)  
-- Monitoring and observability (CloudWatch, Grafana)  
-- Failure handling and retry strategies  
-- Cost-aware architecture decisions  
+- AWS Data Platforms: S3, Glue, Athena, Redshift, Lambda
+- Batch & Streaming Pipelines
+- Apache Kafka / Event-Driven Architectures
+- SQL Data Modeling (Star Schema, Fact & Dimension Tables)
+- Python for ETL, automation, and data workflows
+- Terraform / Infrastructure as Code
+- Monitoring, Observability, and Cost Optimization
 
 ---
 
-## Selected Data Engineering Projects
+## Community Leadership & Speaking
 
-### Ecommerce Data Warehouse  
-**AWS Redshift Serverless — Analytical Data Platform**
+- Co-Leader, AWS Girls Argentina User Group
+- Speaker, Data Wizard (Peru)
+- Speaker, AWS User Group La Paz
+- Upcoming Speaker, ACMUD Bogotá (May 15)
 
-Designed an analytical data warehouse to support business reporting and handle evolving transactional data.
-
-This system addresses challenges such as late-arriving data, incremental ingestion, and query performance optimization for analytics workloads.
-
-**Key Decisions**
-- Star schema modeling for analytical performance  
-- Incremental ingestion pipelines to reduce compute costs  
-- Strategy for handling late-arriving transactional data  
-- Infrastructure fully defined using Terraform  
-
-**Architecture Highlights**
-- AWS Redshift Serverless  
-- Incremental batch pipelines  
-- Fact and dimension modeling  
-- Reproducible infrastructure  
-
-**Tech Stack:**  
-AWS Redshift • S3 • Terraform • SQL  
-
-Repository:  
-https://github.com/tuni56/ecommerce-data-warehouse-redshift
+I enjoy helping engineers grow through practical talks on cloud, data platforms, and real-world architecture.
 
 ---
 
-### Serverless Data Lake Platform  
-**AWS-native Analytics Data Lake**
+## Featured Projects
 
-Designed a serverless data lake architecture to support scalable analytics across raw and curated datasets.
+### Ecommerce Data Warehouse
+Analytical platform on Redshift Serverless with incremental ingestion, star schema modeling, and Terraform-managed infrastructure.
 
-The system enables efficient querying using columnar storage and automated metadata discovery.
+**Stack:** Redshift, S3, SQL, Terraform
 
-**Key Decisions**
-- Serverless-first architecture to eliminate idle compute  
-- Columnar storage (Parquet) for performance optimization  
-- Automated schema discovery with Glue Crawlers  
-- Metadata catalog for data discoverability  
-
-**Architecture Highlights**
-- Multi-layer S3 data lake (raw → processed → curated)  
-- AWS Glue catalog and ETL  
-- Athena for querying  
-- Infrastructure automation  
-
-**Tech Stack:**  
-S3 • Glue • Athena • Python • CloudFormation  
-
-Repository:  
-https://github.com/tuni56/serverless-aws-data-lake-with-kiro
+🔗 https://github.com/tuni56/ecommerce-data-warehouse-redshift
 
 ---
 
-### Real-Time Event-Driven Data Pipeline  
-**Kafka Streaming Architecture**
+### Real-Time Event-Driven Data Pipeline
+Kafka-based streaming architecture designed for resilient ingestion, schema evolution, and observability.
 
-Built a real-time data pipeline to process high-velocity event streams with reliability and observability.
+**Stack:** Kafka, Python, Redis, Grafana, Terraform
 
-Designed to reflect production-grade streaming systems with decoupled components and resilient processing.
-
-**Key Decisions**
-- Event-driven architecture using Kafka  
-- Schema evolution with Schema Registry  
-- Monitoring-first system design  
-- Consumer reliability and fault tolerance strategies  
-
-**Architecture Highlights**
-- Streaming ingestion pipeline  
-- Event routing and processing  
-- Observability dashboards  
-- Resilient message handling  
-
-**Tech Stack:**  
-Kafka • Python • Redis • Grafana • Terraform  
-
-Repository:  
-https://github.com/tuni56/real-time-event-driven-data-pipeline
+🔗 https://github.com/tuni56/real-time-event-driven-data-pipeline
 
 ---
 
-### IoT Data Architecture on AWS  
-**Scalable Sensor Data Ingestion**
+### Serverless Data Lake Platform
+AWS-native data lake with raw, processed, and curated layers using S3, Glue Catalog, and Athena.
 
-Designed a scalable architecture to ingest and store long-term IoT datasets while maintaining cost efficiency and queryability.
+**Stack:** S3, Glue, Athena, Python, CloudFormation
 
-**Key Decisions**
-- Storage lifecycle optimization  
-- Serverless ingestion design  
-- Long-term data retention strategy  
-- Queryable historical datasets  
-
-**Focus Areas**
-- Scalability  
-- Cost optimization  
-- Long-term data management  
-
-**Tech Stack:**  
-AWS Serverless • Kafka • Data Lake Architecture  
-
-Repository:  
-https://github.com/tuni56/iot-data-architecture-aws
+🔗 https://github.com/tuni56/serverless-aws-data-lake-with-kiro
 
 ---
 
-### AWS Serverless Cost Dashboard  
-**Operational Data Pipeline for Cloud Cost Monitoring**
+### AWS Serverless Cost Dashboard
+Automated pipeline for AWS Cost & Usage Reports with near real-time visibility and alerting.
 
-Built an automated data pipeline to process AWS Cost & Usage Reports and generate near real-time operational insights.
+**Stack:** Lambda, S3, CloudWatch, SNS, Python
 
-**Highlights**
-- Automated cost data ingestion  
-- Event-driven processing  
-- Monitoring-first design  
-- Near real-time cost visibility  
-
-**Tech Stack:**  
-Lambda • S3 • CloudWatch • SNS • Python  
-
-Repository:  
-https://github.com/tuni56/AWS-Cost-Dashboard-Serverless-
+🔗 https://github.com/tuni56/AWS-Cost-Dashboard-Serverless-
 
 ---
 
-## Engineering Background
+## Certifications & Professional Development
 
-Background in distributed backend systems:
-- Java  
-- Spring Boot  
-- Microservices  
-- Messaging systems  
-
-This experience influences how I design data platforms as production systems, not isolated pipelines.
+- Confluent Data Streaming Engineering Foundations
+- AWS re:Invent All Builders Welcome Grantee
+- Migration and Modernization on AWS
+- AWS AI Practitioner Program
+- McKinsey Forward Program (Leadership, Problem Solving & Business Communication)
 
 ---
 
-## Current Focus
+## Connect
 
-- AWS-native data platform architecture  
-- Event-driven data systems  
-- Infrastructure as Code for data platforms  
-- Observability-driven pipeline design  
+- LinkedIn: https://www.linkedin.com/in/rociobaigorria/
+- Portfolio: [Add your portfolio URL]
+- Email: rociomnbaigorria@gmail.com
 
-Actively pursuing Data Engineer / Data Platform Engineer roles focused on modern data infrastructure.
-
-# Location
-
-Argentina (GMT-3)
-
-Open to:
-
-- Remote roles
-- Relocation to the United States
-
-**US Citizen**
-
----
-
-# Contact
-
-LinkedIn  
-https://www.linkedin.com/in/rociobaigorria/
-
-Email  
-rociomnbaigorria@gmail.com
-
----
-
-# Engineering Philosophy
-
-Data systems are not just pipelines.
-
-They are **living distributed systems** that must handle:
-
-- failures
-- scale changes
-- operational pressure
-- human operators
-
-My goal is to build **data platforms where information flows reliably and teams can make decisions with confidence**.
 
 ![GitHub Space Invaders](game.gif)
 
