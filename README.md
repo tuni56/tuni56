@@ -48,7 +48,6 @@ Streaming architecture designed around event-driven principles, resilient ingest
 
 **Stack:** Apache Kafka, Python, Redis, Grafana, Terraform
 https://github.com/tuni56/real-time-event-driven-data-pipeline
-
 ---
 
 ### Ecommerce Data Warehouse
@@ -65,7 +64,6 @@ AWS-native data lake architecture with raw, processed, and curated layers suppor
 
 **Stack:** S3, Glue, Athena, Python
 https://github.com/tuni56/serverless-aws-data-lake-with-kiro
-
 ---
 
 ## Community & Leadership
